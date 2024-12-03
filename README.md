@@ -1,3 +1,4 @@
 Readme file
 ---
-download and run
+download and run main.ipynb
+
