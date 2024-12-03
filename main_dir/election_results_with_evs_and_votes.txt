@@ -1,0 +1,193 @@
+All State-Level Results:
+AL:
+  Candidate: Donald Trump, EVs: 9, Percentage: 64.6%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 34.1%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 0.5%%
+AK:
+  Candidate: Donald Trump, EVs: 3, Percentage: 54.5%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 41.4%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.7%%
+AZ:
+  Candidate: Donald Trump, EVs: 11, Percentage: 52.2%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 46.7%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.5%%
+AR:
+  Candidate: Donald Trump, EVs: 6, Percentage: 64.2%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 33.6%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.1%%
+CA:
+  Candidate: Kamala Harris, EVs: 54, Percentage: 58.5%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 38.3%%
+  Candidate: Robert F. Kennedy Jr, EVs: 0, Percentage: 1.2%%
+CO:
+  Candidate: Kamala Harris, EVs: 10, Percentage: 54.2%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 43.2%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.1%%
+CT:
+  Candidate: Kamala Harris, EVs: 7, Percentage: 56.4%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 41.9%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.8%%
+DC:
+  Candidate: Kamala Harris, EVs: 3, Percentage: 90.3%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 6.5%%
+  Candidate: Write-ins, EVs: 0, Percentage: 2.4%%
+FL:
+  Candidate: Donald Trump, EVs: 30, Percentage: 56.1%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 43.0%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.4%%
+GA:
+  Candidate: Donald Trump, EVs: 16, Percentage: 50.7%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 48.5%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 0.4%%
+HI:
+  Candidate: Kamala Harris, EVs: 4, Percentage: 60.6%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 37.5%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.8%%
+ID:
+  Candidate: Donald Trump, EVs: 4, Percentage: 66.9%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 30.4%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.4%%
+IL:
+  Candidate: Kamala Harris, EVs: 19, Percentage: 54.6%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 43.8%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.4%%
+IN:
+  Candidate: Donald Trump, EVs: 11, Percentage: 58.7%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 39.6%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.0%%
+IA:
+  Candidate: Donald Trump, EVs: 6, Percentage: 55.7%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 42.5%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 0.8%%
+KS:
+  Candidate: Donald Trump, EVs: 6, Percentage: 57.2%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 41.0%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.2%%
+KY:
+  Candidate: Donald Trump, EVs: 8, Percentage: 64.5%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 33.9%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 0.8%%
+LA:
+  Candidate: Donald Trump, EVs: 8, Percentage: 60.2%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 38.2%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.4%%
+MD:
+  Candidate: Kamala Harris, EVs: 10, Percentage: 63.0%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 34.3%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 1.1%%
+MA:
+  Candidate: Kamala Harris, EVs: 11, Percentage: 61.2%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 36.0%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.8%%
+MI:
+  Candidate: Donald Trump, EVs: 15, Percentage: 49.7%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 48.3%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.8%%
+MN:
+  Candidate: Kamala Harris, EVs: 10, Percentage: 50.9%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 46.7%%
+  Candidate: Robert F. Kennedy Jr, EVs: 0, Percentage: 0.7%%
+MS:
+  Candidate: Donald Trump, EVs: 6, Percentage: 60.9%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 38.0%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 0.4%%
+MO:
+  Candidate: Donald Trump, EVs: 10, Percentage: 58.4%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 40.0%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 0.8%%
+MT:
+  Candidate: Donald Trump, EVs: 4, Percentage: 58.1%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 38.3%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 2.0%%
+NV:
+  Candidate: Donald Trump, EVs: 6, Percentage: 50.6%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 47.5%%
+  Candidate: None of these candidates, EVs: 0, Percentage: 1.3%%
+NH:
+  Candidate: Kamala Harris, EVs: 4, Percentage: 50.7%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 47.9%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 0.5%%
+NJ:
+  Candidate: Kamala Harris, EVs: 14, Percentage: 51.8%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 45.9%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.9%%
+NM:
+  Candidate: Kamala Harris, EVs: 5, Percentage: 51.9%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 45.9%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.0%%
+NY:
+  Candidate: Kamala Harris, EVs: 28, Percentage: 55.6%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 43.9%%
+  Candidate: Write-ins, EVs: 0, Percentage: 0.5%%
+NC:
+  Candidate: Donald Trump, EVs: 16, Percentage: 50.9%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 47.6%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.4%%
+ND:
+  Candidate: Donald Trump, EVs: 3, Percentage: 67.0%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 30.5%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 1.7%%
+OH:
+  Candidate: Donald Trump, EVs: 17, Percentage: 55.0%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 43.9%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 0.5%%
+OK:
+  Candidate: Donald Trump, EVs: 7, Percentage: 66.2%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 31.9%%
+  Candidate: Robert F. Kennedy Jr, EVs: 0, Percentage: 1.0%%
+OR:
+  Candidate: Kamala Harris, EVs: 8, Percentage: 55.3%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 41.0%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.5%%
+PA:
+  Candidate: Donald Trump, EVs: 19, Percentage: 50.4%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 48.7%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.5%%
+RI:
+  Candidate: Kamala Harris, EVs: 4, Percentage: 55.5%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 41.8%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.0%%
+SC:
+  Candidate: Donald Trump, EVs: 9, Percentage: 58.2%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 40.4%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 0.5%%
+SD:
+  Candidate: Donald Trump, EVs: 3, Percentage: 63.4%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 34.2%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.7%%
+TN:
+  Candidate: Donald Trump, EVs: 11, Percentage: 64.1%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 34.4%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 0.7%%
+TX:
+  Candidate: Donald Trump, EVs: 40, Percentage: 56.2%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 42.5%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.7%%
+UT:
+  Candidate: Donald Trump, EVs: 6, Percentage: 59.4%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 37.8%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 1.1%%
+VT:
+  Candidate: Kamala Harris, EVs: 3, Percentage: 63.8%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 32.3%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.6%%
+VA:
+  Candidate: Kamala Harris, EVs: 13, Percentage: 51.8%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 46.1%%
+  Candidate: Jill Stein, EVs: 0, Percentage: 0.8%%
+WA:
+  Candidate: Kamala Harris, EVs: 12, Percentage: 57.6%%
+  Candidate: Donald Trump, EVs: 0, Percentage: 39.3%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.4%%
+WV:
+  Candidate: Donald Trump, EVs: 4, Percentage: 70.0%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 28.1%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 1.2%%
+WI:
+  Candidate: Donald Trump, EVs: 10, Percentage: 49.6%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 48.8%%
+  Candidate: Robert F. Kennedy Jr., EVs: 0, Percentage: 0.5%%
+WY:
+  Candidate: Donald Trump, EVs: 3, Percentage: 71.6%%
+  Candidate: Kamala Harris, EVs: 0, Percentage: 25.8%%
+  Candidate: Chase Oliver, EVs: 0, Percentage: 1.6%%
