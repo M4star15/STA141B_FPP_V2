@@ -1,55 +1,55 @@
 const stateColors = {
-    "AL": "#rgb(215, 36, 36);",
-    "AK": "#rgb(215, 36, 36);",
-    "AZ": "#rgb(215, 36, 36);",
-    "AR": "#rgb(215, 36, 36);",
-    "CA": "#rgb(112, 187, 233)",
-    "CO": "#rgb(112, 187, 233)",
-    "CT": "#rgb(112, 187, 233)",
-    "DE": "#rgb(112, 187, 233)",
-    "DC": "#rgb(112, 187, 233)",
-    "FL": "#rgb(215, 36, 36);",
-    "GA": "#rgb(215, 36, 36);",
-    "HI": "#rgb(112, 187, 233)",
-    "ID": "#rgb(215, 36, 36);",
-    "IL": "#rgb(112, 187, 233)",
-    "IN": "#rgb(215, 36, 36);",
-    "IA": "#rgb(215, 36, 36);",
-    "KS": "#rgb(215, 36, 36);",
-    "KY": "#rgb(215, 36, 36);",
-    "LA": "#rgb(215, 36, 36);",
-    "ME": "#rgb(112, 187, 233)",
-    "MD": "#rgb(112, 187, 233)",
-    "MA": "#rgb(112, 187, 233)",
-    "MI": "#rgb(215, 36, 36);",
-    "MN": "#rgb(112, 187, 233)",
-    "MS": "#rgb(215, 36, 36);",
-    "MO": "#rgb(215, 36, 36);",
-    "MT": "#rgb(215, 36, 36);",
-    "NE": "#rgb(215, 36, 36);",
-    "NV": "#rgb(215, 36, 36);",
-    "NH": "#rgb(112, 187, 233)",
-    "NJ": "#rgb(112, 187, 233)",
-    "NM": "#rgb(112, 187, 233)",
-    "NY": "#rgb(112, 187, 233)",
-    "NC": "#rgb(215, 36, 36);",
-    "ND": "#rgb(215, 36, 36);",
-    "OH": "#rgb(215, 36, 36);",
-    "OK": "#rgb(215, 36, 36);",
-    "OR": "#rgb(112, 187, 233)",
-    "PA": "#rgb(215, 36, 36);",
-    "RI": "#rgb(112, 187, 233)",
-    "SC": "#rgb(215, 36, 36);",
-    "SD": "#rgb(215, 36, 36);",
-    "TN": "#rgb(215, 36, 36);",
-    "TX": "#rgb(215, 36, 36);",
-    "UT": "#rgb(215, 36, 36);",
-    "VT": "#rgb(112, 187, 233)",
-    "VA": "#rgb(112, 187, 233)",
-    "WA": "#rgb(112, 187, 233)",
-    "WV": "#rgb(215, 36, 36);",
-    "WI": "#rgb(215, 36, 36);",
-    "WY": "#rgb(215, 36, 36);"
+    "AL": "red",
+    "AK": "red",
+    "AZ": "red",
+    "AR": "red",
+    "CA": "blue",
+    "CO": "blue",
+    "CT": "blue",
+    "DE": "blue",
+    "DC": "blue",
+    "FL": "red",
+    "GA": "red",
+    "HI": "blue",
+    "ID": "red",
+    "IL": "blue",
+    "IN": "red",
+    "IA": "red",
+    "KS": "red",
+    "KY": "red",
+    "LA": "red",
+    "ME": "blue",
+    "MD": "blue",
+    "MA": "blue",
+    "MI": "red",
+    "MN": "blue",
+    "MS": "red",
+    "MO": "red",
+    "MT": "red",
+    "NE": "red",
+    "NV": "red",
+    "NH": "blue",
+    "NJ": "blue",
+    "NM": "blue",
+    "NY": "blue",
+    "NC": "red",
+    "ND": "red",
+    "OH": "red",
+    "OK": "red",
+    "OR": "blue",
+    "PA": "red",
+    "RI": "blue",
+    "SC": "red",
+    "SD": "red",
+    "TN": "red",
+    "TX": "red",
+    "UT": "red",
+    "VT": "blue",
+    "VA": "blue",
+    "WA": "blue",
+    "WV": "red",
+    "WI": "red",
+    "WY": "red"
 };
 const stateTooltips = {
     "AL": "Donald Trump: 64.6%<br>Kamala Harris: 34.1%<br>Robert F. Kennedy Jr.: 0.5%",
@@ -104,3 +104,30 @@ const stateTooltips = {
     "WI": "Donald Trump: 49.6%<br>Kamala Harris: 48.8%<br>Robert F. Kennedy Jr.: 0.5%",
     "WY": "Donald Trump: 71.6%<br>Kamala Harris: 25.8%<br>Chase Oliver: 1.6%"
 };
+
+    document.querySelectorAll("path[data-id]").forEach((statePath) => {
+        const stateId = statePath.getAttribute("data-id");
+
+        if (stateColors[stateId]) {
+            statePath.classList.add(`state-${stateColors[stateId]}`);
+        }
+
+        statePath.addEventListener("mouseenter", (event) => {
+            const tooltip = document.getElementById("tooltip");
+            tooltip.innerHTML = stateTooltips[stateId] || "No data available";
+            tooltip.style.display = "block";
+            tooltip.style.left = event.pageX + 10 + "px";
+            tooltip.style.top = event.pageY + 10 + "px";
+        });
+
+        statePath.addEventListener("mousemove", (event) => {
+            const tooltip = document.getElementById("tooltip");
+            tooltip.style.left = event.pageX + 10 + "px";
+            tooltip.style.top = event.pageY + 10 + "px";
+        });
+
+        statePath.addEventListener("mouseleave", () => {
+            const tooltip = document.getElementById("tooltip");
+            tooltip.style.display = "none";
+        });
+    });
