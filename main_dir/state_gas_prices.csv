@@ -1,0 +1,52 @@
+state_name,State_Abbreviation,Average_Gas_Price
+Alaska,AK,$3.420
+Alabama,AL,$2.730
+Arkansas,AR,$2.611
+Arizona,AZ,$3.166
+California,CA,$4.356
+Colorado,CO,$2.875
+Connecticut,CT,$3.046
+District of Columbia,DC,$3.233
+Delaware,DE,$2.857
+Florida,FL,$3.113
+Georgia,GA,$2.906
+Hawaii,HI,$4.559
+Iowa,IA,$2.698
+Idaho,ID,$3.022
+Illinois,IL,$3.156
+Indiana,IN,$2.863
+Kansas,KS,$2.663
+Kentucky,KY,$2.695
+Louisiana,LA,$2.699
+Massachusetts,MA,$3.032
+Maryland,MD,$2.969
+Maine,ME,$3.049
+Michigan,MI,$2.914
+Minnesota,MN,$2.810
+Missouri,MO,$2.677
+Mississippi,MS,$2.603
+Montana,MT,$2.850
+North Carolina,NC,$2.830
+North Dakota,ND,$2.836
+Nebraska,NE,$2.739
+New Hampshire,NH,$2.952
+New Jersey,NJ,$2.941
+New Mexico,NM,$2.764
+Nevada,NV,$3.628
+New York,NY,$3.150
+Ohio,OH,$2.806
+Oklahoma,OK,$2.517
+Oregon,OR,$3.494
+Pennsylvania,PA,$3.265
+Rhode Island,RI,$2.958
+South Carolina,SC,$2.729
+South Dakota,SD,$2.808
+Tennessee,TN,$2.666
+Texas,TX,$2.596
+Utah,UT,$2.988
+Virginia,VA,$2.889
+Vermont,VT,$3.120
+Washington,WA,$3.956
+Wisconsin,WI,$2.721
+West Virginia,WV,$2.919
+Wyoming,WY,$2.955

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Fullscreen Map</title>
+    <style>
+        html, body {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden;
+        }
+        #map-container {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #e4e4e4;
+        }
+        iframe {
+            width: 80%; /* Default size */
+            height: 80%;
+            border: none;
+            transition: width 0.3s, height 0.3s; 
+        }
+        iframe.fullscreen {
+            width: 100%; 
+            height: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div id="map-container">
+        <iframe id="map-iframe" src="map.html"></iframe>
+    </div>
+
+    <script>
+        const mapIframe = document.getElementById('map-iframe');
+
+        let isFullscreen = false;
+
+        // Toggle fullscreen on double-click
+        mapIframe.addEventListener('dblclick', () => {
+            isFullscreen = !isFullscreen; // Toggle state
+            if (isFullscreen) {
+                mapIframe.classList.add('fullscreen'); // to fullscreen
+            } else {
+                mapIframe.classList.remove('fullscreen'); // to default size
+            }
+        });
+    </script>
+</body>
+</html>

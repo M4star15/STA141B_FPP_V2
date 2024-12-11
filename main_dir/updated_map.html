@@ -126,5 +126,20 @@
     });
 </script>
 
+<script>
+    document.querySelector("svg").addEventListener("dblclick", function () {
+        const svgElement = this; 
+        if (!document.fullscreenElement) {
+
+            svgElement.requestFullscreen().catch((err) => {
+                console.error(`Error attempting to enable full-screen mode: ${err.message}`);
+            });
+        } else {
+
+            document.exitFullscreen();
+        }
+    });
+</script>
+
 </body>
 </html>
