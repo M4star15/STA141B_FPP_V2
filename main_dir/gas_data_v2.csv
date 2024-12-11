@@ -1,0 +1,1298 @@
+County,State,Price,State_Average,state_name,Comparison_with_State_Average
+Adams County,IA,2.649,2.7676,Iowa,-0.1186
+Adams County,IN,2.872,2.8702,Indiana,0.0018
+Adams County,MS,2.782,2.6891,Mississippi,0.0929
+Adams County,WA,4.044,3.934,Washington,0.1099
+Addison County,VT,3.0495,3.1276,Vermont,-0.0781
+Aitkin County,MN,2.777,2.7892,Minnesota,-0.0122
+Alamosa County,CO,3.162,3.0417,Colorado,0.1203
+Albany County,NY,3.126,3.2019,New York,-0.0759
+Albany County,WY,2.624,2.9467,Wyoming,-0.3227
+Albemarle County,VA,2.893,2.9095,Virginia,-0.0165
+Alcorn County,MS,2.531,2.6891,Mississippi,-0.1581
+Alexander County,IL,3.499,3.0868,Illinois,0.4122
+Alfalfa County,OK,2.736,2.5638,Oklahoma,0.1722
+Allamakee County,IA,2.899,2.7676,Iowa,0.1314
+Allegany County,MD,3.223,2.9834,Maryland,0.2396
+Allegany County,NY,3.296,3.2019,New York,0.0941
+Alleghany County,VA,2.939,2.9095,Virginia,0.0295
+Allen County,IN,2.822,2.8702,Indiana,-0.0482
+Allendale County,SC,2.974,2.7674,South Carolina,0.2066
+Alpena County,MI,2.966,2.923,Michigan,0.043
+Alpine County,CA,5.799,4.5028,California,1.2962
+Amite County,MS,2.809,2.6891,Mississippi,0.1199
+Anderson County,KS,2.529,2.7011,Kansas,-0.1721
+Anderson County,SC,2.634,2.7674,South Carolina,-0.1334
+Andrew County,MO,2.589,2.6718,Missouri,-0.0828
+Anne Arundel County,MD,2.919,2.9834,Maryland,-0.0644
+Anson County,NC,2.9,2.8649,North Carolina,0.0351
+Apache County,AZ,3.09,3.1461,Arizona,-0.0561
+Appomattox County,VA,2.827,2.9095,Virginia,-0.0825
+Armstrong County,TX,2.359,2.6847,Texas,-0.3257
+Aroostook County,ME,3.054,3.0555,Maine,-0.0015
+Ashley County,AR,2.784,2.6515,Arkansas,0.1325
+Asotin County,WA,3.502,3.934,Washington,-0.4321
+Assumption County,LA,2.8365,2.741,Louisiana,0.0955
+Atchison County,KS,2.669,2.7011,Kansas,-0.0321
+Atchison County,MO,2.914,2.6718,Missouri,0.2422
+Athens County,OH,2.977,2.8384,Ohio,0.1386
+Atlantic County,NJ,2.898,2.9361,New Jersey,-0.0381
+Attala County,MS,2.698,2.6891,Mississippi,0.0089
+Augusta County,VA,2.966,2.9095,Virginia,0.0565
+Baca County,CO,2.906,3.0417,Colorado,-0.1357
+Baker County,OR,3.597,3.5375,Oregon,0.0595
+Baltimore County,MD,2.916,2.9834,Maryland,-0.0674
+Bamberg County,SC,2.982,2.7674,South Carolina,0.2146
+Baraga County,MI,2.994,2.923,Michigan,0.071
+Barnes County,ND,2.902,2.8678,North Dakota,0.0342
+Barnstable County,MA,3.092,3.1254,Massachusetts,-0.0334
+Barry County,MO,2.509,2.6718,Missouri,-0.1628
+Barton County,KS,2.77,2.7011,Kansas,0.0689
+Barton County,MO,2.512,2.6718,Missouri,-0.1598
+Bath County,KY,2.692,2.7243,Kentucky,-0.0323
+Bay County,FL,2.758,3.0547,Florida,-0.2967
+Bayfield County,WI,2.769,2.7954,Wisconsin,-0.0264
+Baylor County,TX,2.899,2.6847,Texas,0.2143
+Bear Lake County,ID,3.109,3.1104,Idaho,-0.0014
+Beauregard County,LA,2.699,2.741,Louisiana,-0.042
+Beaver County,OK,2.769,2.5638,Oklahoma,0.2052
+Beaver County,UT,3.388,3.0844,Utah,0.3036
+Beaverhead County,MT,3.007,2.9015,Montana,0.1055
+Becker County,MN,2.988,2.7892,Minnesota,0.1988
+Bedford County,VA,2.865,2.9095,Virginia,-0.0445
+Belknap County,NH,2.93,2.9712,New Hampshire,-0.0412
+Bell County,TX,2.497,2.6847,Texas,-0.1877
+Belmont County,OH,2.832,2.8384,Ohio,-0.0064
+Benewah County,ID,3.055,3.1104,Idaho,-0.0554
+Bennington County,VT,2.989,3.1276,Vermont,-0.1386
+Benson County,ND,2.886,2.8678,North Dakota,0.0182
+Benton County,AR,2.531,2.6515,Arkansas,-0.1205
+Benton County,IA,2.699,2.7676,Iowa,-0.0686
+Benton County,IN,3.031,2.8702,Indiana,0.1608
+Benton County,MS,2.651,2.6891,Mississippi,-0.0381
+Benton County,OR,3.253,3.5375,Oregon,-0.2845
+Benton County,TN,2.611,2.6916,Tennessee,-0.0806
+Benzie County,MI,2.997,2.923,Michigan,0.074
+Berkeley County,SC,2.708,2.7674,South Carolina,-0.0594
+Berkeley County,WV,3.147,3.0191,West Virginia,0.1279
+Berks County,PA,3.122,3.3018,Pennsylvania,-0.1798
+Berkshire County,MA,3.061,3.1254,Massachusetts,-0.0644
+Bernalillo County,NM,2.752,2.8433,New Mexico,-0.0913
+Big Horn County,MT,2.915,2.9015,Montana,0.0135
+Billings County,ND,3.209,2.8678,North Dakota,0.3412
+Bingham County,ID,2.904,3.1104,Idaho,-0.2064
+Black Hawk County,IA,2.811,2.7676,Iowa,0.0434
+Bladen County,NC,2.745,2.8649,North Carolina,-0.1199
+Blaine County,ID,3.433,3.1104,Idaho,0.3226
+Blaine County,MT,2.883,2.9015,Montana,-0.0185
+Bolivar County,MS,2.513,2.6891,Mississippi,-0.1761
+Bond County,IL,3.025,3.0868,Illinois,-0.0618
+Bonner County,ID,3.027,3.1104,Idaho,-0.0834
+Bonneville County,ID,2.879,3.1104,Idaho,-0.2314
+Boone County,IA,2.738,2.7676,Iowa,-0.0296
+Boone County,IL,3.156,3.0868,Illinois,0.0692
+Boone County,WV,2.84,3.0191,West Virginia,-0.1791
+Bossier County,LA,2.541,2.741,Louisiana,-0.2
+Bottineau County,ND,2.855,2.8678,North Dakota,-0.0128
+Boulder County,CO,3.1395,3.0417,Colorado,0.0978
+Boundary County,ID,2.931,3.1104,Idaho,-0.1794
+Boyd County,NE,2.909,2.8668,Nebraska,0.0422
+Bracken County,KY,2.667,2.7243,Kentucky,-0.0573
+Brazoria County,TX,2.526,2.6847,Texas,-0.1587
+Breckinridge County,KY,2.626,2.7243,Kentucky,-0.0983
+Brevard County,FL,3.133,3.0547,Florida,0.0783
+Bristol County,MA,2.911,3.1254,Massachusetts,-0.2144
+Bristol County,RI,2.933,2.9686,Rhode Island,-0.0356
+Bronx County,NY,3.152,3.2019,New York,-0.0499
+Broome County,NY,3.114,3.2019,New York,-0.0879
+Brown County,IL,2.999,3.0868,Illinois,-0.0878
+Brown County,KS,2.655,2.7011,Kansas,-0.0461
+Brown County,MN,2.756,2.7892,Minnesota,-0.0332
+Brown County,NE,2.932,2.8668,Nebraska,0.0652
+Brown County,SD,2.874,2.8881,South Dakota,-0.0141
+Brule County,SD,3.107,2.8881,South Dakota,0.2189
+Bryan County,GA,2.91,2.9209,Georgia,-0.0109
+Buchanan County,IA,2.89,2.7676,Iowa,0.1224
+Buchanan County,VA,3.036,2.9095,Virginia,0.1265
+Bucks County,PA,3.089,3.3018,Pennsylvania,-0.2128
+Buffalo County,NE,2.867,2.8668,Nebraska,0.0002
+Buncombe County,NC,2.887,2.8649,North Carolina,0.0221
+Bureau County,IL,3.176,3.0868,Illinois,0.0892
+Burlington County,NJ,2.888,2.9361,New Jersey,-0.0481
+Burnett County,WI,2.818,2.7954,Wisconsin,0.0226
+Burt County,NE,2.749,2.8668,Nebraska,-0.1178
+Butler County,KS,2.7155,2.7011,Kansas,0.0144
+Butler County,KY,2.712,2.7243,Kentucky,-0.0123
+Butte County,CA,4.149,4.5028,California,-0.3538
+Butte County,SD,3.149,2.8881,South Dakota,0.2609
+Cabarrus County,NC,2.867,2.8649,North Carolina,0.0021
+Cabell County,WV,2.857,3.0191,West Virginia,-0.1621
+Caddo County,LA,2.59,2.741,Louisiana,-0.151
+Caddo County,OK,2.553,2.5638,Oklahoma,-0.0108
+Caldwell County,LA,2.819,2.741,Louisiana,0.078
+Calhoun County,FL,2.899,3.0547,Florida,-0.1557
+Calhoun County,GA,2.999,2.9209,Georgia,0.0781
+Calhoun County,MI,2.898,2.923,Michigan,-0.025
+Calhoun County,MS,2.699,2.6891,Mississippi,0.0099
+Calhoun County,SC,2.778,2.7674,South Carolina,0.0106
+Calloway County,KY,2.581,2.7243,Kentucky,-0.1433
+Calvert County,MD,3.129,2.9834,Maryland,0.1456
+Camas County,ID,3.399,3.1104,Idaho,0.2886
+Cambria County,PA,3.435,3.3018,Pennsylvania,0.1332
+Camden County,NJ,2.85,2.9361,New Jersey,-0.0861
+Cameron County,LA,3.0175,2.741,Louisiana,0.2765
+Campbell County,SD,2.639,2.8881,South Dakota,-0.2491
+Campbell County,WY,2.884,2.9467,Wyoming,-0.0627
+Cannon County,TN,2.82,2.6916,Tennessee,0.1284
+Canyon County,ID,2.995,3.1104,Idaho,-0.1154
+Cape Girardeau County,MO,2.698,2.6718,Missouri,0.0262
+Cape May County,NJ,2.963,2.9361,New Jersey,0.0269
+Carbon County,UT,2.813,3.0844,Utah,-0.2714
+Caribou County,ID,3.192,3.1104,Idaho,0.0816
+Caroline County,MD,2.895,2.9834,Maryland,-0.0884
+Carroll County,AR,2.627,2.6515,Arkansas,-0.0245
+Carroll County,IN,3.09,2.8702,Indiana,0.2198
+Carroll County,MD,2.913,2.9834,Maryland,-0.0704
+Carroll County,MS,2.7875,2.6891,Mississippi,0.0984
+Carroll County,NH,3.018,2.9712,New Hampshire,0.0468
+Carroll County,OH,2.984,2.8384,Ohio,0.1456
+Carroll County,VA,2.809,2.9095,Virginia,-0.1005
+Carson City County,NV,3.298,3.5176,Nevada,-0.2196
+Carter County,KY,2.565,2.7243,Kentucky,-0.1593
+Carter County,MT,3.099,2.9015,Montana,0.1975
+Carter County,OK,2.496,2.5638,Oklahoma,-0.0678
+Carteret County,NC,2.842,2.8649,North Carolina,-0.0229
+Carver County,MN,2.91,2.7892,Minnesota,0.1208
+Cascade County,MT,2.778,2.9015,Montana,-0.1235
+Cass County,IA,2.529,2.7676,Iowa,-0.2386
+Cass County,MI,2.931,2.923,Michigan,0.008
+Cass County,MN,2.718,2.7892,Minnesota,-0.0712
+Cass County,ND,2.656,2.8678,North Dakota,-0.2118
+Cass County,NE,2.631,2.8668,Nebraska,-0.2358
+Cassia County,ID,2.954,3.1104,Idaho,-0.1564
+Catron County,NM,3.254,2.8433,New Mexico,0.4107
+Cattaraugus County,NY,3.35,3.2019,New York,0.1481
+Cavalier County,ND,2.799,2.8678,North Dakota,-0.0688
+Cecil County,MD,2.891,2.9834,Maryland,-0.0924
+Cedar County,IA,2.839,2.7676,Iowa,0.0714
+Centre County,PA,3.415,3.3018,Pennsylvania,0.1132
+Cerro Gordo County,IA,2.715,2.7676,Iowa,-0.0526
+Champaign County,IL,3.008,3.0868,Illinois,-0.0788
+Champaign County,OH,2.789,2.8384,Ohio,-0.0494
+Charles County,MD,2.875,2.9834,Maryland,-0.1084
+Charles Mix County,SD,2.722,2.8881,South Dakota,-0.1661
+Charlevoix County,MI,3.106,2.923,Michigan,0.183
+Charlotte County,FL,3.102,3.0547,Florida,0.0473
+Charlotte County,VA,2.987,2.9095,Virginia,0.0775
+Charlottesville City County,VA,2.967,2.9095,Virginia,0.0575
+Chase County,NE,3.099,2.8668,Nebraska,0.2322
+Chatham County,GA,2.982,2.9209,Georgia,0.0611
+Chattooga County,GA,2.84,2.9209,Georgia,-0.0809
+Chautauqua County,KS,2.672,2.7011,Kansas,-0.0291
+Chautauqua County,NY,3.439,3.2019,New York,0.2371
+Chaves County,NM,2.627,2.8433,New Mexico,-0.2163
+Chemung County,NY,3.105,3.2019,New York,-0.0969
+Chenango County,NY,3.19,3.2019,New York,-0.0119
+Cherokee County,KS,2.559,2.7011,Kansas,-0.1421
+Cherokee County,OK,2.424,2.5638,Oklahoma,-0.1398
+Cherokee County,SC,2.677,2.7674,South Carolina,-0.0904
+Cheshire County,NH,2.857,2.9712,New Hampshire,-0.1142
+Chester County,PA,3.069,3.3018,Pennsylvania,-0.2328
+Cheyenne County,CO,2.786,3.0417,Colorado,-0.2557
+Chickasaw County,IA,2.91,2.7676,Iowa,0.1424
+Chicot County,AR,2.808,2.6515,Arkansas,0.1565
+Childress County,TX,2.326,2.6847,Texas,-0.3587
+Chippewa County,MI,3.112,2.923,Michigan,0.189
+Chisago County,MN,2.86,2.7892,Minnesota,0.0708
+Christian County,IL,2.967,3.0868,Illinois,-0.1198
+Churchill County,NV,3.655,3.5176,Nevada,0.1374
+Cibola County,NM,2.74,2.8433,New Mexico,-0.1033
+Cimarron County,OK,2.634,2.5638,Oklahoma,0.0702
+Clackamas County,OR,3.587,3.5375,Oregon,0.0495
+Claiborne County,MS,3.039,2.6891,Mississippi,0.3499
+Clare County,MI,2.737,2.923,Michigan,-0.186
+Clarendon County,SC,2.912,2.7674,South Carolina,0.1446
+Clark County,IL,3.01,3.0868,Illinois,-0.0768
+Clark County,KS,2.744,2.7011,Kansas,0.0429
+Clark County,MO,2.632,2.6718,Missouri,-0.0398
+Clark County,NV,3.604,3.5176,Nevada,0.0864
+Clark County,WA,3.864,3.934,Washington,-0.0701
+Clarke County,MS,2.796,2.6891,Mississippi,0.1069
+Clay County,AR,2.652,2.6515,Arkansas,0.0005
+Clay County,IA,2.841,2.7676,Iowa,0.0734
+Clay County,KS,2.669,2.7011,Kansas,-0.0321
+Clay County,NC,2.859,2.8649,North Carolina,-0.0059
+Clay County,NE,2.857,2.8668,Nebraska,-0.0098
+Clay County,TX,2.628,2.6847,Texas,-0.0567
+Clayton County,IA,2.897,2.7676,Iowa,0.1294
+Clearfield County,PA,3.447,3.3018,Pennsylvania,0.1452
+Cleburne County,AR,2.561,2.6515,Arkansas,-0.0905
+Clermont County,OH,2.78,2.8384,Ohio,-0.0584
+Cleveland County,OK,2.465,2.5638,Oklahoma,-0.0988
+Clinton County,IA,2.816,2.7676,Iowa,0.0484
+Clinton County,NY,3.039,3.2019,New York,-0.1629
+Clinton County,PA,3.247,3.3018,Pennsylvania,-0.0548
+Coconino County,AZ,3.158,3.1461,Arizona,0.0119
+Coffee County,TN,2.624,2.6916,Tennessee,-0.0676
+Cole County,MO,2.811,2.6718,Missouri,0.1392
+Coleman County,TX,2.713,2.6847,Texas,0.0283
+Colfax County,NM,3.286,2.8433,New Mexico,0.4427
+Colleton County,SC,2.851,2.7674,South Carolina,0.0836
+Collier County,FL,3.185,3.0547,Florida,0.1303
+Columbia County,FL,3.138,3.0547,Florida,0.0833
+Columbia County,NY,3.114,3.2019,New York,-0.0879
+Columbia County,OR,3.79,3.5375,Oregon,0.2525
+Columbia County,WA,3.995,3.934,Washington,0.061
+Columbus County,NC,2.795,2.8649,North Carolina,-0.0699
+Comal County,TX,2.502,2.6847,Texas,-0.1827
+Comanche County,OK,2.446,2.5638,Oklahoma,-0.1178
+Concho County,TX,2.749,2.6847,Texas,0.0643
+Contra Costa County,CA,4.571,4.5028,California,0.0682
+Converse County,WY,2.914,2.9467,Wyoming,-0.0327
+Cook County,IL,3.365,3.0868,Illinois,0.2782
+Cook County,MN,2.943,2.7892,Minnesota,0.1538
+Cooper County,MO,2.524,2.6718,Missouri,-0.1478
+Coos County,NH,3.073,2.9712,New Hampshire,0.1018
+Coos County,OR,3.328,3.5375,Oregon,-0.2095
+Cortland County,NY,3.232,3.2019,New York,0.0301
+Cottonwood County,MN,2.899,2.7892,Minnesota,0.1098
+Covington City County,VA,2.945,2.9095,Virginia,0.0355
+Covington County,MS,2.692,2.6891,Mississippi,0.0029
+Cowlitz County,WA,3.965,3.934,Washington,0.0309
+Craig County,OK,2.424,2.5638,Oklahoma,-0.1398
+Crawford County,AR,2.504,2.6515,Arkansas,-0.1475
+Crawford County,GA,3.149,2.9209,Georgia,0.2281
+Crawford County,IA,2.633,2.7676,Iowa,-0.1346
+Crawford County,IL,3.0,3.0868,Illinois,-0.0868
+Crawford County,MI,2.972,2.923,Michigan,0.049
+Crawford County,WI,2.903,2.7954,Wisconsin,0.1076
+Crittenden County,KY,2.659,2.7243,Kentucky,-0.0653
+Crockett County,TX,2.816,2.6847,Texas,0.1313
+Crow Wing County,MN,2.685,2.7892,Minnesota,-0.1042
+Culberson County,TX,3.319,2.6847,Texas,0.6343
+Cumberland County,ME,3.039,3.0555,Maine,-0.0165
+Cumberland County,NJ,2.899,2.9361,New Jersey,-0.0371
+Cumberland County,TN,2.714,2.6916,Tennessee,0.0224
+Curry County,OR,3.719,3.5375,Oregon,0.1815
+Custer County,CO,2.999,3.0417,Colorado,-0.0427
+Custer County,ID,3.333,3.1104,Idaho,0.2226
+Custer County,MT,2.812,2.9015,Montana,-0.0895
+Custer County,NE,2.999,2.8668,Nebraska,0.1322
+Custer County,OK,2.573,2.5638,Oklahoma,0.0092
+Custer County,SD,3.031,2.8881,South Dakota,0.1429
+Dakota County,MN,2.847,2.7892,Minnesota,0.0578
+Dallam County,TX,2.48,2.6847,Texas,-0.2047
+Dallas County,AR,2.699,2.6515,Arkansas,0.0475
+Dallas County,MO,2.541,2.6718,Missouri,-0.1308
+Dallas County,TX,2.651,2.6847,Texas,-0.0337
+Daniels County,MT,3.084,2.9015,Montana,0.1825
+Dare County,NC,2.858,2.8649,North Carolina,-0.0069
+Darke County,OH,2.838,2.8384,Ohio,-0.0004
+Dauphin County,PA,3.186,3.3018,Pennsylvania,-0.1158
+Davidson County,TN,2.717,2.6916,Tennessee,0.0254
+Daviess County,IN,2.828,2.8702,Indiana,-0.0422
+Davison County,SD,2.617,2.8881,South Dakota,-0.2711
+Dawes County,NE,2.891,2.8668,Nebraska,0.0242
+Dawson County,MT,2.818,2.9015,Montana,-0.0835
+Dawson County,NE,2.743,2.8668,Nebraska,-0.1238
+Day County,SD,2.799,2.8881,South Dakota,-0.0891
+De Kalb County,IN,2.877,2.8702,Indiana,0.0068
+De Soto County,MS,2.56,2.6891,Mississippi,-0.1291
+Decatur County,GA,2.822,2.9209,Georgia,-0.0989
+Decatur County,IN,2.697,2.8702,Indiana,-0.1732
+Dekalb County,MO,2.589,2.6718,Missouri,-0.0828
+Dekalb County,TN,2.641,2.6916,Tennessee,-0.0506
+Del Norte County,CA,4.467,4.5028,California,-0.0358
+Delaware County,IN,2.79,2.8702,Indiana,-0.0802
+Delaware County,NY,3.415,3.2019,New York,0.2131
+Delaware County,OH,2.869,2.8384,Ohio,0.0306
+Delaware County,PA,3.044,3.3018,Pennsylvania,-0.2578
+Delta County,MI,2.975,2.923,Michigan,0.052
+Des Moines County,IA,2.786,2.7676,Iowa,0.0184
+Desha County,AR,2.834,2.6515,Arkansas,0.1825
+Dewey County,OK,2.632,2.5638,Oklahoma,0.0682
+Dewey County,SD,2.999,2.8881,South Dakota,0.1109
+Dickens County,TX,2.759,2.6847,Texas,0.0743
+Dickey County,ND,2.819,2.8678,North Dakota,-0.0488
+Dickinson County,IA,2.649,2.7676,Iowa,-0.1186
+Dickinson County,KS,2.539,2.7011,Kansas,-0.1621
+Dickinson County,MI,2.782,2.923,Michigan,-0.141
+Dickson County,TN,2.629,2.6916,Tennessee,-0.0626
+Divide County,ND,2.814,2.8678,North Dakota,-0.0538
+Dodge County,GA,2.86,2.9209,Georgia,-0.0609
+Dodge County,MN,2.959,2.7892,Minnesota,0.1698
+Dolores County,CO,3.259,3.0417,Colorado,0.2173
+Dona Ana County,NM,2.742,2.8433,New Mexico,-0.1013
+Doniphan County,KS,2.645,2.7011,Kansas,-0.0561
+Dorchester County,MD,2.88,2.9834,Maryland,-0.1034
+Douglas County,NV,3.441,3.5176,Nevada,-0.0766
+Douglas County,OR,3.4395,3.5375,Oregon,-0.098
+Drew County,AR,2.602,2.6515,Arkansas,-0.0495
+Dubuque County,IA,2.893,2.7676,Iowa,0.1254
+Duchesne County,UT,3.066,3.0844,Utah,-0.0184
+Dukes County,MA,4.166,3.1254,Massachusetts,1.0406
+Dundy County,NE,3.109,2.8668,Nebraska,0.2422
+Dunn County,ND,2.997,2.8678,North Dakota,0.1292
+Dutchess County,NY,3.122,3.2019,New York,-0.0799
+Duval County,FL,3.117,3.0547,Florida,0.0623
+East Baton Rouge County,LA,2.707,2.741,Louisiana,-0.034
+East Carroll County,LA,2.759,2.741,Louisiana,0.018
+East Feliciana County,LA,2.826,2.741,Louisiana,0.085
+Echols County,GA,2.999,2.9209,Georgia,0.0781
+Ector County,TX,2.627,2.6847,Texas,-0.0577
+Eddy County,NM,2.817,2.8433,New Mexico,-0.0263
+El Dorado County,CA,4.398,4.5028,California,-0.1048
+Elbert County,CO,2.747,3.0417,Colorado,-0.2947
+Elbert County,GA,2.784,2.9209,Georgia,-0.1369
+Elkhart County,IN,2.833,2.8702,Indiana,-0.0372
+Elko County,NV,3.283,3.5176,Nevada,-0.2346
+Elliott County,KY,2.799,2.7243,Kentucky,0.0747
+Ellis County,KS,2.772,2.7011,Kansas,0.0709
+Ellis County,TX,2.59,2.6847,Texas,-0.0947
+Elmore County,ID,3.039,3.1104,Idaho,-0.0714
+Emanuel County,GA,3.109,2.9209,Georgia,0.1881
+Emery County,UT,3.164,3.0844,Utah,0.0796
+Emmet County,IA,2.696,2.7676,Iowa,-0.0716
+Emmet County,MI,2.961,2.923,Michigan,0.038
+Erath County,TX,2.632,2.6847,Texas,-0.0527
+Erie County,NY,3.175,3.2019,New York,-0.0269
+Erie County,PA,3.448,3.3018,Pennsylvania,0.1462
+Essex County,MA,3.063,3.1254,Massachusetts,-0.0624
+Essex County,NJ,2.9875,2.9361,New Jersey,0.0514
+Essex County,NY,3.389,3.2019,New York,0.1871
+Essex County,VT,3.341,3.1276,Vermont,0.2134
+Estill County,KY,2.883,2.7243,Kentucky,0.1587
+Eureka County,NV,3.699,3.5176,Nevada,0.1814
+Evangeline County,LA,2.698,2.741,Louisiana,-0.043
+Fairbanks North Star County,AK,3.352,3.5955,Alaska,-0.2435
+Fairfield County,SC,2.859,2.7674,South Carolina,0.0916
+Fall River County,SD,2.952,2.8881,South Dakota,0.0639
+Faribault County,MN,2.702,2.7892,Minnesota,-0.0872
+Fauquier County,VA,2.995,2.9095,Virginia,0.0855
+Fayette County,KY,2.737,2.7243,Kentucky,0.0127
+Fayette County,TN,2.764,2.6916,Tennessee,0.0724
+Fayette County,TX,2.751,2.6847,Texas,0.0663
+Fergus County,MT,3.114,2.9015,Montana,0.2125
+Ferry County,WA,3.669,3.934,Washington,-0.265
+Fillmore County,MN,2.869,2.7892,Minnesota,0.0798
+Fillmore County,NE,2.855,2.8668,Nebraska,-0.0118
+Fisher County,TX,2.679,2.6847,Texas,-0.0057
+Flathead County,MT,2.86,2.9015,Montana,-0.0415
+Florence County,SC,2.714,2.7674,South Carolina,-0.0534
+Floyd County,IA,2.771,2.7676,Iowa,0.0034
+Floyd County,KY,2.584,2.7243,Kentucky,-0.1403
+Floyd County,TX,2.562,2.6847,Texas,-0.1227
+Fort Bend County,TX,2.556,2.6847,Texas,-0.1287
+Foster County,ND,2.894,2.8678,North Dakota,0.0262
+Franklin County,AR,2.514,2.6515,Arkansas,-0.1375
+Franklin County,FL,2.941,3.0547,Florida,-0.1137
+Franklin County,IA,2.786,2.7676,Iowa,0.0184
+Franklin County,ID,2.965,3.1104,Idaho,-0.1454
+Franklin County,IL,2.986,3.0868,Illinois,-0.1008
+Franklin County,IN,2.966,2.8702,Indiana,0.0958
+Franklin County,MA,2.963,3.1254,Massachusetts,-0.1624
+Franklin County,ME,3.124,3.0555,Maine,0.0685
+Franklin County,MS,2.635,2.6891,Mississippi,-0.0541
+Franklin County,NY,3.235,3.2019,New York,0.0331
+Franklin County,OH,2.895,2.8384,Ohio,0.0566
+Franklin County,VA,2.862,2.9095,Virginia,-0.0475
+Franklin County,VT,3.193,3.1276,Vermont,0.0654
+Frederick County,VA,2.868,2.9095,Virginia,-0.0415
+Freeborn County,MN,2.702,2.7892,Minnesota,-0.0872
+Fremont County,ID,3.462,3.1104,Idaho,0.3516
+Fremont County,WY,3.204,2.9467,Wyoming,0.2573
+Fresno County,CA,4.264,4.5028,California,-0.2388
+Frio County,TX,2.671,2.6847,Texas,-0.0137
+Fulton County,KY,2.534,2.7243,Kentucky,-0.1903
+Fulton County,NY,3.202,3.2019,New York,0.0001
+Gallatin County,MT,2.856,2.9015,Montana,-0.0455
+Gallia County,OH,2.733,2.8384,Ohio,-0.1054
+Galveston County,TX,2.584,2.6847,Texas,-0.1007
+Garfield County,CO,3.405,3.0417,Colorado,0.3633
+Garfield County,MT,2.779,2.9015,Montana,-0.1225
+Garrett County,MD,3.308,2.9834,Maryland,0.3246
+Garvin County,OK,2.506,2.5638,Oklahoma,-0.0578
+Gaston County,NC,2.808,2.8649,North Carolina,-0.0569
+Genesee County,MI,2.814,2.923,Michigan,-0.109
+Georgetown County,SC,2.738,2.7674,South Carolina,-0.0294
+Gibson County,IN,2.853,2.8702,Indiana,-0.0172
+Gibson County,TN,2.765,2.6916,Tennessee,0.0734
+Gilchrist County,FL,3.104,3.0547,Florida,0.0493
+Gillespie County,TX,2.792,2.6847,Texas,0.1073
+Gilmer County,WV,3.149,3.0191,West Virginia,0.1299
+Glacier County,MT,2.986,2.9015,Montana,0.0845
+Glenn County,CA,4.1245,4.5028,California,-0.3783
+Gloucester County,NJ,2.885,2.9361,New Jersey,-0.0511
+Gogebic County,MI,2.829,2.923,Michigan,-0.094
+Golden Valley County,ND,2.899,2.8678,North Dakota,0.0312
+Goodhue County,MN,2.807,2.7892,Minnesota,0.0178
+Gooding County,ID,3.038,3.1104,Idaho,-0.0724
+Goshen County,WY,2.86,2.9467,Wyoming,-0.0867
+Grafton County,NH,3.064,2.9712,New Hampshire,0.0928
+Graham County,AZ,3.175,3.1461,Arizona,0.0289
+Graham County,KS,2.759,2.7011,Kansas,0.0579
+Graham County,NC,3.006,2.8649,North Carolina,0.1411
+Grand Forks County,ND,2.7,2.8678,North Dakota,-0.1678
+Grand Isle County,VT,3.189,3.1276,Vermont,0.0614
+Grant County,IN,2.906,2.8702,Indiana,0.0358
+Grant County,KY,2.8,2.7243,Kentucky,0.0757
+Grant County,LA,2.774,2.741,Louisiana,0.033
+Grant County,NE,2.999,2.8668,Nebraska,0.1322
+Grant County,NM,2.887,2.8433,New Mexico,0.0437
+Grant County,OK,2.449,2.5638,Oklahoma,-0.1148
+Grant County,OR,3.714,3.5375,Oregon,0.1765
+Grant County,SD,2.776,2.8881,South Dakota,-0.1121
+Grant County,WA,3.954,3.934,Washington,0.02
+Grant County,WI,2.883,2.7954,Wisconsin,0.0876
+Grant County,WV,3.199,3.0191,West Virginia,0.1799
+Graves County,KY,2.499,2.7243,Kentucky,-0.2253
+Greeley County,KS,2.899,2.7011,Kansas,0.1979
+Greeley County,NE,2.649,2.8668,Nebraska,-0.2178
+Greene County,IL,3.13,3.0868,Illinois,0.0432
+Greene County,MS,2.769,2.6891,Mississippi,0.0799
+Greene County,NC,2.755,2.8649,North Carolina,-0.1099
+Greene County,NY,3.102,3.2019,New York,-0.0999
+Greene County,PA,3.471,3.3018,Pennsylvania,0.1692
+Greenville County,SC,2.697,2.7674,South Carolina,-0.0704
+Gregory County,SD,3.107,2.8881,South Dakota,0.2189
+Grundy County,IL,3.085,3.0868,Illinois,-0.0018
+Guadalupe County,NM,2.714,2.8433,New Mexico,-0.1293
+Hamilton County,IN,2.909,2.8702,Indiana,0.0388
+Hamilton County,KS,2.619,2.7011,Kansas,-0.0821
+Hamilton County,NY,3.649,3.2019,New York,0.4471
+Hamilton County,TN,2.612,2.6916,Tennessee,-0.0796
+Hamlin County,SD,2.649,2.8881,South Dakota,-0.2391
+Hampden County,MA,2.958,3.1254,Massachusetts,-0.1674
+Hampshire County,MA,3.009,3.1254,Massachusetts,-0.1164
+Hancock County,GA,2.89,2.9209,Georgia,-0.0309
+Hancock County,IA,2.822,2.7676,Iowa,0.0544
+Hancock County,IL,3.312,3.0868,Illinois,0.2252
+Hancock County,MS,2.564,2.6891,Mississippi,-0.1251
+Hansford County,TX,2.663,2.6847,Texas,-0.0217
+Haralson County,GA,2.909,2.9209,Georgia,-0.0119
+Hardeman County,TX,2.726,2.6847,Texas,0.0413
+Hardin County,IA,2.889,2.7676,Iowa,0.1214
+Hardin County,IL,2.999,3.0868,Illinois,-0.0878
+Hardin County,KY,2.55,2.7243,Kentucky,-0.1743
+Hardin County,OH,2.7035,2.8384,Ohio,-0.1349
+Harding County,NM,3.569,2.8433,New Mexico,0.7257
+Harding County,SD,3.099,2.8881,South Dakota,0.2109
+Hardy County,WV,3.199,3.0191,West Virginia,0.1799
+Harmon County,OK,2.329,2.5638,Oklahoma,-0.2348
+Harney County,OR,3.799,3.5375,Oregon,0.2615
+Harper County,KS,2.775,2.7011,Kansas,0.0739
+Harper County,OK,2.742,2.5638,Oklahoma,0.1782
+Harris County,GA,2.99,2.9209,Georgia,0.0691
+Harrison County,MO,2.431,2.6718,Missouri,-0.2408
+Harrison County,OH,2.916,2.8384,Ohio,0.0776
+Harrison County,TX,2.657,2.6847,Texas,-0.0277
+Harrison County,WV,2.981,3.0191,West Virginia,-0.0381
+Harrisonburg City County,VA,3.02,2.9095,Virginia,0.1105
+Hart County,KY,2.641,2.7243,Kentucky,-0.0833
+Hartford County,CT,3.042,3.0285,Connecticut,0.0135
+Hartley County,TX,2.499,2.6847,Texas,-0.1857
+Haskell County,KS,2.611,2.7011,Kansas,-0.0901
+Hawaii County,HI,4.698,4.5973,Hawaii,0.1007
+Haywood County,NC,2.868,2.8649,North Carolina,0.0031
+Haywood County,TN,2.892,2.6916,Tennessee,0.2004
+Heard County,GA,3.069,2.9209,Georgia,0.1481
+Hemphill County,TX,2.724,2.6847,Texas,0.0393
+Hempstead County,AR,2.673,2.6515,Arkansas,0.0215
+Henderson County,IL,3.077,3.0868,Illinois,-0.0098
+Henderson County,NC,2.82,2.8649,North Carolina,-0.0449
+Hennepin County,MN,2.938,2.7892,Minnesota,0.1488
+Henry County,IL,3.169,3.0868,Illinois,0.0822
+Henry County,IN,2.856,2.8702,Indiana,-0.0142
+Henry County,KY,2.767,2.7243,Kentucky,0.0427
+Henry County,OH,2.641,2.8384,Ohio,-0.1974
+Herkimer County,NY,3.3435,3.2019,New York,0.1416
+Hertford County,NC,2.899,2.8649,North Carolina,0.0341
+Hickman County,KY,2.699,2.7243,Kentucky,-0.0253
+Hickman County,TN,2.689,2.6916,Tennessee,-0.0026
+Hidalgo County,NM,2.956,2.8433,New Mexico,0.1127
+Highland County,OH,2.867,2.8384,Ohio,0.0286
+Hill County,MT,2.888,2.9015,Montana,-0.0135
+Hill County,TX,2.548,2.6847,Texas,-0.1367
+Hillsborough County,FL,3.168,3.0547,Florida,0.1133
+Hillsborough County,NH,2.968,2.9712,New Hampshire,-0.0032
+Hillsdale County,MI,2.894,2.923,Michigan,-0.029
+Holmes County,MS,2.743,2.6891,Mississippi,0.0539
+Holt County,MO,2.637,2.6718,Missouri,-0.0348
+Honolulu County,HI,4.474,4.5973,Hawaii,-0.1233
+Hood River County,OR,3.337,3.5375,Oregon,-0.2005
+Horry County,SC,2.659,2.7674,South Carolina,-0.1084
+Hot Spring County,AR,2.628,2.6515,Arkansas,-0.0235
+Houghton County,MI,2.847,2.923,Michigan,-0.076
+Houston County,GA,2.877,2.9209,Georgia,-0.0439
+Houston County,MN,2.849,2.7892,Minnesota,0.0598
+Howard County,AR,2.681,2.6515,Arkansas,0.0295
+Howard County,IA,2.844,2.7676,Iowa,0.0764
+Howard County,MO,2.809,2.6718,Missouri,0.1372
+Howell County,MO,2.687,2.6718,Missouri,0.0152
+Hubbard County,MN,2.878,2.7892,Minnesota,0.0888
+Hudspeth County,TX,2.901,2.6847,Texas,0.2163
+Humboldt County,CA,4.756,4.5028,California,0.2532
+Humboldt County,NV,3.469,3.5176,Nevada,-0.0486
+Humphreys County,MS,2.924,2.6891,Mississippi,0.2349
+Humphreys County,TN,2.576,2.6916,Tennessee,-0.1156
+Hunterdon County,NJ,2.96,2.9361,New Jersey,0.0239
+Hutchinson County,TX,2.435,2.6847,Texas,-0.2497
+Hyde County,NC,3.186,2.8649,North Carolina,0.3211
+Independence County,AR,2.593,2.6515,Arkansas,-0.0585
+Inyo County,CA,4.588,4.5028,California,0.0852
+Irion County,TX,2.962,2.6847,Texas,0.2773
+Iron County,MI,2.984,2.923,Michigan,0.061
+Iron County,UT,2.916,3.0844,Utah,-0.1684
+Iroquois County,IL,3.097,3.0868,Illinois,0.0102
+Irwin County,GA,2.941,2.9209,Georgia,0.0201
+Itawamba County,MS,2.53,2.6891,Mississippi,-0.1591
+Jackson County,GA,2.896,2.9209,Georgia,-0.0249
+Jackson County,IL,3.111,3.0868,Illinois,0.0242
+Jackson County,KY,2.764,2.7243,Kentucky,0.0397
+Jackson County,MN,2.842,2.7892,Minnesota,0.0528
+Jackson County,MS,2.552,2.6891,Mississippi,-0.1371
+Jackson County,OR,3.5,3.5375,Oregon,-0.0375
+Jackson County,WI,2.731,2.7954,Wisconsin,-0.0644
+James City County,VA,2.974,2.9095,Virginia,0.0645
+Jasper County,IN,3.018,2.8702,Indiana,0.1478
+Jasper County,SC,2.877,2.7674,South Carolina,0.1096
+Jay County,IN,2.866,2.8702,Indiana,-0.0042
+Jeff Davis County,TX,3.129,2.6847,Texas,0.4443
+Jefferson County,FL,3.149,3.0547,Florida,0.0943
+Jefferson County,ID,3.014,3.1104,Idaho,-0.0964
+Jefferson County,IN,2.778,2.8702,Indiana,-0.0922
+Jefferson County,MS,2.699,2.6891,Mississippi,0.0099
+Jefferson County,MT,2.833,2.9015,Montana,-0.0685
+Jefferson County,NY,3.137,3.2019,New York,-0.0649
+Jefferson County,OH,2.91,2.8384,Ohio,0.0716
+Jefferson County,WV,3.104,3.0191,West Virginia,0.0849
+Jefferson Davis County,LA,2.821,2.741,Louisiana,0.08
+Jenkins County,GA,2.866,2.9209,Georgia,-0.0549
+Jerome County,ID,2.985,3.1104,Idaho,-0.1254
+Jersey County,IL,3.174,3.0868,Illinois,0.0872
+Jim Hogg County,TX,2.794,2.6847,Texas,0.1093
+Jo Daviess County,IL,3.161,3.0868,Illinois,0.0742
+Johnson County,AR,2.444,2.6515,Arkansas,-0.2075
+Johnson County,KS,2.736,2.7011,Kansas,0.0349
+Johnson County,NE,2.529,2.8668,Nebraska,-0.3378
+Johnson County,TN,2.757,2.6916,Tennessee,0.0654
+Johnson County,WY,3.206,2.9467,Wyoming,0.2593
+Jones County,GA,2.987,2.9209,Georgia,0.0661
+Jones County,IA,2.868,2.7676,Iowa,0.1004
+Jones County,MS,2.859,2.6891,Mississippi,0.1699
+Jones County,SD,2.799,2.8881,South Dakota,-0.0891
+Josephine County,OR,3.4705,3.5375,Oregon,-0.067
+Juneau County,AK,3.307,3.5955,Alaska,-0.2885
+Kalamazoo County,MI,2.793,2.923,Michigan,-0.13
+Kalkaska County,MI,2.911,2.923,Michigan,-0.012
+Kanabec County,MN,2.709,2.7892,Minnesota,-0.0802
+Kane County,IL,3.082,3.0868,Illinois,-0.0048
+Kane County,UT,3.285,3.0844,Utah,0.2006
+Kankakee County,IL,2.968,3.0868,Illinois,-0.1188
+Kearney County,NE,2.966,2.8668,Nebraska,0.0992
+Kemper County,MS,2.751,2.6891,Mississippi,0.0619
+Kent County,DE,2.884,2.869,Delaware,0.015
+Kent County,RI,2.952,2.9686,Rhode Island,-0.0166
+Kern County,CA,4.307,4.5028,California,-0.1958
+Ketchikan Gateway County,AK,3.572,3.5955,Alaska,-0.0235
+Kimball County,NE,3.069,2.8668,Nebraska,0.2022
+Kimble County,TX,2.666,2.6847,Texas,-0.0187
+King County,TX,2.899,2.6847,Texas,0.2143
+King George County,VA,2.895,2.9095,Virginia,-0.0145
+King William County,VA,2.894,2.9095,Virginia,-0.0155
+Kingsbury County,SD,2.6775,2.8881,South Dakota,-0.2106
+Kiowa County,CO,2.616,3.0417,Colorado,-0.4257
+Kiowa County,OK,2.643,2.5638,Oklahoma,0.0792
+Kitsap County,WA,4.128,3.934,Washington,0.194
+Kittitas County,WA,3.754,3.934,Washington,-0.1801
+Kittson County,MN,2.826,2.7892,Minnesota,0.0368
+Klamath County,OR,3.407,3.5375,Oregon,-0.1305
+Knott County,KY,2.732,2.7243,Kentucky,0.0077
+Knox County,IL,3.015,3.0868,Illinois,-0.0718
+Knox County,MO,2.699,2.6718,Missouri,0.0272
+Knox County,NE,2.722,2.8668,Nebraska,-0.1448
+Knox County,TN,2.59,2.6916,Tennessee,-0.1016
+Kodiak Island County,AK,4.369,3.5955,Alaska,0.7735
+Koochiching County,MN,2.687,2.7892,Minnesota,-0.1022
+Kootenai County,ID,2.879,3.1104,Idaho,-0.2314
+Kossuth County,IA,2.679,2.7676,Iowa,-0.0886
+La Porte County,IN,2.861,2.8702,Indiana,-0.0092
+La Salle County,TX,2.697,2.6847,Texas,0.0123
+Lafayette County,MS,2.757,2.6891,Mississippi,0.0679
+Lafourche County,LA,2.814,2.741,Louisiana,0.073
+Lagrange County,IN,2.92,2.8702,Indiana,0.0498
+Lake County,CA,4.441,4.5028,California,-0.0618
+Lake County,FL,3.146,3.0547,Florida,0.0913
+Lake County,IL,3.068,3.0868,Illinois,-0.0188
+Lake County,IN,2.819,2.8702,Indiana,-0.0512
+Lake County,MN,2.883,2.7892,Minnesota,0.0938
+Lake County,OR,3.553,3.5375,Oregon,0.0155
+Lake County,SD,2.629,2.8881,South Dakota,-0.2591
+Lake County,TN,2.649,2.6916,Tennessee,-0.0426
+Lamoille County,VT,3.198,3.1276,Vermont,0.0704
+Lancaster County,NE,2.7445,2.8668,Nebraska,-0.1223
+Lane County,OR,3.336,3.5375,Oregon,-0.2015
+Lanier County,GA,2.917,2.9209,Georgia,-0.0039
+Lapeer County,MI,2.901,2.923,Michigan,-0.022
+Larimer County,CO,2.78,3.0417,Colorado,-0.2617
+Larue County,KY,2.756,2.7243,Kentucky,0.0317
+Las Animas County,CO,2.803,3.0417,Colorado,-0.2387
+Lassen County,CA,4.964,4.5028,California,0.4612
+Latah County,ID,3.208,3.1104,Idaho,0.0976
+Latimer County,OK,2.681,2.5638,Oklahoma,0.1172
+Lauderdale County,TN,2.761,2.6916,Tennessee,0.0694
+Laurel County,KY,2.707,2.7243,Kentucky,-0.0173
+Laurens County,GA,2.834,2.9209,Georgia,-0.0869
+Lavaca County,TX,2.676,2.6847,Texas,-0.0087
+Lawrence County,KY,2.787,2.7243,Kentucky,0.0627
+Lawrence County,MS,2.766,2.6891,Mississippi,0.0769
+Lawrence County,OH,2.77,2.8384,Ohio,-0.0684
+Le Flore County,OK,2.687,2.5638,Oklahoma,0.1232
+Le Sueur County,MN,2.816,2.7892,Minnesota,0.0268
+Lea County,NM,2.694,2.8433,New Mexico,-0.1493
+Leake County,MS,2.565,2.6891,Mississippi,-0.1241
+Leavenworth County,KS,2.536,2.7011,Kansas,-0.1651
+Lee County,IL,3.194,3.0868,Illinois,0.1072
+Lee County,KY,2.994,2.7243,Kentucky,0.2697
+Lee County,SC,2.871,2.7674,South Carolina,0.1036
+Lee County,VA,2.869,2.9095,Virginia,-0.0405
+Leflore County,MS,2.516,2.6891,Mississippi,-0.1731
+Lehigh County,PA,3.144,3.3018,Pennsylvania,-0.1578
+Lemhi County,ID,3.082,3.1104,Idaho,-0.0284
+Leon County,FL,2.915,3.0547,Florida,-0.1397
+Leslie County,KY,2.906,2.7243,Kentucky,0.1817
+Letcher County,KY,2.7955,2.7243,Kentucky,0.0712
+Levy County,FL,3.176,3.0547,Florida,0.1213
+Lewis And Clark County,MT,2.832,2.9015,Montana,-0.0695
+Lewis County,ID,3.123,3.1104,Idaho,0.0126
+Lewis County,KY,2.6735,2.7243,Kentucky,-0.0508
+Lewis County,WA,3.978,3.934,Washington,0.044
+Lexington County,SC,2.697,2.7674,South Carolina,-0.0704
+Liberty County,MT,2.936,2.9015,Montana,0.0345
+Liberty County,TX,2.601,2.6847,Texas,-0.0837
+Lincoln County,CO,2.821,3.0417,Colorado,-0.2207
+Lincoln County,ID,3.094,3.1104,Idaho,-0.0164
+Lincoln County,LA,2.577,2.741,Louisiana,-0.164
+Lincoln County,ME,3.022,3.0555,Maine,-0.0335
+Lincoln County,MN,2.677,2.7892,Minnesota,-0.1122
+Lincoln County,MT,2.868,2.9015,Montana,-0.0335
+Lincoln County,NC,2.793,2.8649,North Carolina,-0.0719
+Lincoln County,NE,3.074,2.8668,Nebraska,0.2072
+Lincoln County,NM,2.913,2.8433,New Mexico,0.0697
+Lincoln County,NV,3.341,3.5176,Nevada,-0.1766
+Lincoln County,OK,2.689,2.5638,Oklahoma,0.1252
+Linn County,KS,2.746,2.7011,Kansas,0.0449
+Linn County,MO,2.765,2.6718,Missouri,0.0932
+Little River County,AR,2.769,2.6515,Arkansas,0.1175
+Livingston County,IL,3.121,3.0868,Illinois,0.0342
+Livingston County,KY,2.719,2.7243,Kentucky,-0.0053
+Llano County,TX,2.596,2.6847,Texas,-0.0887
+Logan County,AR,2.569,2.6515,Arkansas,-0.0825
+Logan County,IL,3.154,3.0868,Illinois,0.0672
+Logan County,KS,2.719,2.7011,Kansas,0.0179
+Logan County,NE,2.864,2.8668,Nebraska,-0.0028
+Logan County,OH,2.886,2.8384,Ohio,0.0476
+Logan County,WV,2.908,3.0191,West Virginia,-0.1111
+Lonoke County,AR,2.599,2.6515,Arkansas,-0.0525
+Los Alamos County,NM,2.849,2.8433,New Mexico,0.0057
+Loving County,TX,2.899,2.6847,Texas,0.2143
+Lumpkin County,GA,2.928,2.9209,Georgia,0.0071
+Luna County,NM,3.03,2.8433,New Mexico,0.1867
+Lycoming County,PA,3.239,3.3018,Pennsylvania,-0.0628
+Lyman County,SD,3.032,2.8881,South Dakota,0.1439
+Lynn County,TX,2.754,2.6847,Texas,0.0693
+Lyon County,NV,3.441,3.5176,Nevada,-0.0766
+Mackinac County,MI,3.26,2.923,Michigan,0.337
+Macon County,IL,3.021,3.0868,Illinois,-0.0658
+Macon County,MO,2.602,2.6718,Missouri,-0.0698
+Macon County,TN,2.639,2.6916,Tennessee,-0.0526
+Madera County,CA,4.269,4.5028,California,-0.2338
+Madison County,FL,3.13,3.0547,Florida,0.0753
+Madison County,ID,2.997,3.1104,Idaho,-0.1134
+Madison County,LA,2.699,2.741,Louisiana,-0.042
+Madison County,NC,3.01,2.8649,North Carolina,0.1451
+Madison County,VA,3.021,2.9095,Virginia,0.1115
+Mahaska County,IA,2.787,2.7676,Iowa,0.0194
+Mahnomen County,MN,2.799,2.7892,Minnesota,0.0098
+Mahoning County,OH,2.8035,2.8384,Ohio,-0.0349
+Malheur County,OR,3.315,3.5375,Oregon,-0.2225
+Maricopa County,AZ,3.227,3.1461,Arizona,0.0809
+Maries County,MO,2.759,2.6718,Missouri,0.0872
+Marin County,CA,4.431,4.5028,California,-0.0718
+Marion County,GA,2.932,2.9209,Georgia,0.0111
+Marion County,IL,3.022,3.0868,Illinois,-0.0648
+Marion County,OH,2.927,2.8384,Ohio,0.0886
+Marion County,SC,2.701,2.7674,South Carolina,-0.0664
+Mariposa County,CA,4.39,4.5028,California,-0.1128
+Marshall County,IN,2.884,2.8702,Indiana,0.0138
+Marshall County,KS,2.645,2.7011,Kansas,-0.0561
+Marshall County,KY,2.635,2.7243,Kentucky,-0.0893
+Marshall County,SD,2.859,2.8881,South Dakota,-0.0291
+Mason County,IL,3.168,3.0868,Illinois,0.0812
+Mason County,KY,2.804,2.7243,Kentucky,0.0797
+Mason County,MI,2.703,2.923,Michigan,-0.22
+Matanuska Susitna County,AK,3.216,3.5955,Alaska,-0.3795
+Maui County,HI,4.62,4.5973,Hawaii,0.0227
+Maury County,TN,2.599,2.6916,Tennessee,-0.0926
+Mccormick County,SC,2.767,2.7674,South Carolina,-0.0004
+Mchenry County,IL,3.071,3.0868,Illinois,-0.0158
+Mchenry County,ND,2.937,2.8678,North Dakota,0.0692
+Mcintosh County,ND,2.899,2.8678,North Dakota,0.0312
+Mckean County,PA,3.681,3.3018,Pennsylvania,0.3792
+Mckenzie County,ND,3.033,2.8678,North Dakota,0.1652
+Mckinley County,NM,2.844,2.8433,New Mexico,0.0007
+Mclean County,KY,2.632,2.7243,Kentucky,-0.0923
+Mclean County,ND,2.835,2.8678,North Dakota,-0.0328
+Mcminn County,TN,2.665,2.6916,Tennessee,-0.0266
+Meade County,SD,3.07,2.8881,South Dakota,0.1819
+Meagher County,MT,2.799,2.9015,Montana,-0.1025
+Meigs County,OH,2.801,2.8384,Ohio,-0.0374
+Merced County,CA,4.181,4.5028,California,-0.3218
+Mercer County,MO,2.549,2.6718,Missouri,-0.1228
+Mercer County,NJ,2.93,2.9361,New Jersey,-0.0061
+Mercer County,OH,2.73,2.8384,Ohio,-0.1084
+Mercer County,PA,3.416,3.3018,Pennsylvania,0.1142
+Merrick County,NE,2.885,2.8668,Nebraska,0.0182
+Merrimack County,NH,2.979,2.9712,New Hampshire,0.0078
+Miami County,IN,2.887,2.8702,Indiana,0.0168
+Miami Dade County,FL,3.161,3.0547,Florida,0.1063
+Middlesex County,CT,3.044,3.0285,Connecticut,0.0155
+Middlesex County,MA,3.077,3.1254,Massachusetts,-0.0484
+Millard County,UT,2.841,3.0844,Utah,-0.2434
+Mille Lacs County,MN,2.906,2.7892,Minnesota,0.1168
+Miller County,AR,2.593,2.6515,Arkansas,-0.0585
+Mineral County,NV,3.905,3.5176,Nevada,0.3874
+Missaukee County,MI,2.918,2.923,Michigan,-0.005
+Mississippi County,AR,2.733,2.6515,Arkansas,0.0815
+Mississippi County,MO,2.552,2.6718,Missouri,-0.1198
+Missoula County,MT,2.801,2.9015,Montana,-0.1005
+Mitchell County,IA,2.851,2.7676,Iowa,0.0834
+Mitchell County,NC,2.811,2.8649,North Carolina,-0.0539
+Mitchell County,TX,2.634,2.6847,Texas,-0.0507
+Modoc County,CA,4.532,4.5028,California,0.0292
+Mohave County,AZ,3.079,3.1461,Arizona,-0.0671
+Moniteau County,MO,2.8,2.6718,Missouri,0.1282
+Monmouth County,NJ,2.951,2.9361,New Jersey,0.0149
+Mono County,CA,5.743,4.5028,California,1.2402
+Monroe County,MI,2.886,2.923,Michigan,-0.037
+Monroe County,MO,2.726,2.6718,Missouri,0.0542
+Monroe County,OH,2.909,2.8384,Ohio,0.0706
+Monroe County,PA,3.099,3.3018,Pennsylvania,-0.2028
+Montgomery County,AR,2.699,2.6515,Arkansas,0.0475
+Montgomery County,IL,3.046,3.0868,Illinois,-0.0408
+Montgomery County,IN,2.806,2.8702,Indiana,-0.0642
+Montgomery County,MD,3.091,2.9834,Maryland,0.1076
+Montgomery County,MS,2.752,2.6891,Mississippi,0.0629
+Montgomery County,VA,2.975,2.9095,Virginia,0.0655
+Montrose County,CO,3.104,3.0417,Colorado,0.0623
+Mora County,NM,2.841,2.8433,New Mexico,-0.0023
+Morehouse County,LA,2.583,2.741,Louisiana,-0.158
+Morgan County,IN,2.858,2.8702,Indiana,-0.0122
+Morgan County,KY,2.893,2.7243,Kentucky,0.1687
+Morgan County,OH,2.9285,2.8384,Ohio,0.0901
+Morgan County,TN,2.739,2.6916,Tennessee,0.0474
+Morgan County,UT,3.024,3.0844,Utah,-0.0604
+Morrill County,NE,3.099,2.8668,Nebraska,0.2322
+Morris County,NJ,2.981,2.9361,New Jersey,0.0449
+Morrison County,MN,2.647,2.7892,Minnesota,-0.1422
+Morrow County,OH,2.888,2.8384,Ohio,0.0496
+Morton County,ND,2.923,2.8678,North Dakota,0.0552
+Mower County,MN,2.546,2.7892,Minnesota,-0.2432
+Muhlenberg County,KY,2.751,2.7243,Kentucky,0.0267
+Muscatine County,IA,2.832,2.7676,Iowa,0.0644
+Muscogee County,GA,2.828,2.9209,Georgia,-0.0929
+Muskingum County,OH,2.818,2.8384,Ohio,-0.0204
+Muskogee County,OK,2.41,2.5638,Oklahoma,-0.1538
+Musselshell County,MT,2.932,2.9015,Montana,0.0305
+Nassau County,NY,2.987,3.2019,New York,-0.2149
+Nelson County,KY,2.627,2.7243,Kentucky,-0.0973
+Nemaha County,KS,2.676,2.7011,Kansas,-0.0251
+Nemaha County,NE,2.689,2.8668,Nebraska,-0.1778
+Neshoba County,MS,2.7095,2.6891,Mississippi,0.0204
+Nevada County,AR,2.725,2.6515,Arkansas,0.0735
+Nevada County,CA,4.734,4.5028,California,0.2312
+New Haven County,CT,3.027,3.0285,Connecticut,-0.0015
+New Madrid County,MO,2.628,2.6718,Missouri,-0.0438
+New York County,NY,3.263,3.2019,New York,0.0611
+Newberry County,SC,2.706,2.7674,South Carolina,-0.0614
+Newport County,RI,3.001,2.9686,Rhode Island,0.0324
+Newton County,IN,2.882,2.8702,Indiana,0.0118
+Newton County,MO,2.505,2.6718,Missouri,-0.1668
+Newton County,MS,2.763,2.6891,Mississippi,0.0739
+Newton County,TX,2.744,2.6847,Texas,0.0593
+Nez Perce County,ID,3.254,3.1104,Idaho,0.1436
+Nicholas County,KY,2.752,2.7243,Kentucky,0.0277
+Noble County,IN,2.867,2.8702,Indiana,-0.0032
+Noble County,OH,2.891,2.8384,Ohio,0.0526
+Noble County,OK,2.503,2.5638,Oklahoma,-0.0608
+Nobles County,MN,2.792,2.7892,Minnesota,0.0028
+Nodaway County,MO,2.663,2.6718,Missouri,-0.0088
+North Slope County,AK,3.369,3.5955,Alaska,-0.2265
+Northampton County,PA,3.105,3.3018,Pennsylvania,-0.1968
+Northwest Arctic County,AK,3.549,3.5955,Alaska,-0.0465
+Nottoway County,VA,2.999,2.9095,Virginia,0.0895
+Noxubee County,MS,2.919,2.6891,Mississippi,0.2299
+Nye County,NV,3.249,3.5176,Nevada,-0.2686
+Oakland County,MI,3.017,2.923,Michigan,0.094
+Obion County,TN,2.578,2.6916,Tennessee,-0.1136
+Ocean County,NJ,2.941,2.9361,New Jersey,0.0049
+Oceana County,MI,2.774,2.923,Michigan,-0.149
+Ochiltree County,TX,2.619,2.6847,Texas,-0.0657
+Oconee County,GA,2.967,2.9209,Georgia,0.0461
+Oconee County,SC,2.686,2.7674,South Carolina,-0.0814
+Ogemaw County,MI,2.938,2.923,Michigan,0.015
+Ogle County,IL,3.026,3.0868,Illinois,-0.0608
+Okaloosa County,FL,2.718,3.0547,Florida,-0.3367
+Okanogan County,WA,3.855,3.934,Washington,-0.0791
+Oktibbeha County,MS,2.606,2.6891,Mississippi,-0.0831
+Oldham County,KY,2.777,2.7243,Kentucky,0.0527
+Oneida County,ID,2.895,3.1104,Idaho,-0.2154
+Oneida County,NY,3.332,3.2019,New York,0.1301
+Onondaga County,NY,3.127,3.2019,New York,-0.0749
+Onslow County,NC,2.84,2.8649,North Carolina,-0.0249
+Ontonagon County,MI,3.049,2.923,Michigan,0.126
+Orange County,FL,3.146,3.0547,Florida,0.0913
+Orange County,NC,2.946,2.8649,North Carolina,0.0811
+Orange County,NY,3.043,3.2019,New York,-0.1589
+Orangeburg County,SC,2.793,2.7674,South Carolina,0.0256
+Orleans County,NY,3.239,3.2019,New York,0.0371
+Orleans County,VT,3.221,3.1276,Vermont,0.0934
+Osage County,KS,2.771,2.7011,Kansas,0.0699
+Osage County,OK,2.703,2.5638,Oklahoma,0.1392
+Osceola County,FL,3.159,3.0547,Florida,0.1043
+Oscoda County,MI,3.069,2.923,Michigan,0.146
+Otsego County,NY,3.351,3.2019,New York,0.1491
+Ottawa County,MI,2.828,2.923,Michigan,-0.095
+Ottawa County,OK,2.388,2.5638,Oklahoma,-0.1758
+Otter Tail County,MN,2.895,2.7892,Minnesota,0.1058
+Ouachita County,AR,2.69,2.6515,Arkansas,0.0385
+Ouachita County,LA,2.503,2.741,Louisiana,-0.238
+Ouray County,CO,3.427,3.0417,Colorado,0.3853
+Overton County,TN,2.767,2.6916,Tennessee,0.0754
+Owen County,KY,2.839,2.7243,Kentucky,0.1147
+Owyhee County,ID,3.163,3.1104,Idaho,0.0526
+Oxford County,ME,3.081,3.0555,Maine,0.0255
+Pacific County,WA,4.377,3.934,Washington,0.4429
+Palm Beach County,FL,3.255,3.0547,Florida,0.2003
+Pamlico County,NC,2.771,2.8649,North Carolina,-0.0939
+Panola County,MS,2.487,2.6891,Mississippi,-0.2021
+Park County,MT,2.908,2.9015,Montana,0.0065
+Park County,WY,3.036,2.9467,Wyoming,0.0893
+Parker County,TX,2.656,2.6847,Texas,-0.0287
+Passaic County,NJ,2.963,2.9361,New Jersey,0.0269
+Pawnee County,KS,2.829,2.7011,Kansas,0.1279
+Pawnee County,NE,2.689,2.8668,Nebraska,-0.1778
+Payette County,ID,3.048,3.1104,Idaho,-0.0624
+Pearl River County,MS,2.515,2.6891,Mississippi,-0.1741
+Pecos County,TX,2.744,2.6847,Texas,0.0593
+Pembina County,ND,2.814,2.8678,North Dakota,-0.0538
+Pemiscot County,MO,2.697,2.6718,Missouri,0.0252
+Pend Oreille County,WA,3.614,3.934,Washington,-0.3201
+Pennington County,MN,2.495,2.7892,Minnesota,-0.2942
+Pennington County,SD,2.952,2.8881,South Dakota,0.0639
+Penobscot County,ME,3.068,3.0555,Maine,0.0125
+Perkins County,SD,2.999,2.8881,South Dakota,0.1109
+Perry County,IL,3.099,3.0868,Illinois,0.0122
+Perry County,IN,2.877,2.8702,Indiana,0.0068
+Perry County,MS,2.859,2.6891,Mississippi,0.1699
+Perry County,OH,2.894,2.8384,Ohio,0.0556
+Pershing County,NV,3.711,3.5176,Nevada,0.1934
+Person County,NC,2.986,2.8649,North Carolina,0.1211
+Petersburg City County,VA,2.759,2.9095,Virginia,-0.1505
+Phillips County,AR,2.813,2.6515,Arkansas,0.1615
+Phillips County,CO,3.356,3.0417,Colorado,0.3143
+Phillips County,KS,2.889,2.7011,Kansas,0.1879
+Phillips County,MT,2.926,2.9015,Montana,0.0245
+Pickens County,SC,2.644,2.7674,South Carolina,-0.1234
+Pickett County,TN,2.799,2.6916,Tennessee,0.1074
+Pierce County,NE,2.631,2.8668,Nebraska,-0.2358
+Pierce County,WA,3.986,3.934,Washington,0.052
+Pike County,IL,3.03,3.0868,Illinois,-0.0568
+Pike County,KY,2.753,2.7243,Kentucky,0.0287
+Pike County,MS,2.573,2.6891,Mississippi,-0.1161
+Pima County,AZ,3.043,3.1461,Arizona,-0.1031
+Pinellas County,FL,3.163,3.0547,Florida,0.1083
+Pipestone County,MN,2.626,2.7892,Minnesota,-0.1632
+Pitt County,NC,2.724,2.8649,North Carolina,-0.1409
+Piute County,UT,3.324,3.0844,Utah,0.2396
+Placer County,CA,4.359,4.5028,California,-0.1438
+Plaquemines County,LA,3.108,2.741,Louisiana,0.367
+Platte County,MO,2.649,2.6718,Missouri,-0.0228
+Platte County,WY,3.24,2.9467,Wyoming,0.2933
+Plymouth County,IA,2.547,2.7676,Iowa,-0.2206
+Plymouth County,MA,2.966,3.1254,Massachusetts,-0.1594
+Pocahontas County,IA,2.699,2.7676,Iowa,-0.0686
+Poinsett County,AR,2.675,2.6515,Arkansas,0.0235
+Pointe Coupee County,LA,2.83,2.741,Louisiana,0.089
+Polk County,AR,2.681,2.6515,Arkansas,0.0295
+Polk County,NC,2.878,2.8649,North Carolina,0.0131
+Polk County,OR,3.391,3.5375,Oregon,-0.1465
+Polk County,TN,2.728,2.6916,Tennessee,0.0364
+Polk County,TX,2.595,2.6847,Texas,-0.0897
+Pope County,MN,2.78,2.7892,Minnesota,-0.0092
+Porter County,IN,2.884,2.8702,Indiana,0.0138
+Pottawatomie County,KS,2.582,2.7011,Kansas,-0.1191
+Pottawatomie County,OK,2.475,2.5638,Oklahoma,-0.0888
+Powder River County,MT,3.049,2.9015,Montana,0.1475
+Powell County,KY,2.764,2.7243,Kentucky,0.0397
+Power County,ID,3.121,3.1104,Idaho,0.0106
+Powhatan County,VA,2.823,2.9095,Virginia,-0.0865
+Pratt County,KS,2.679,2.7011,Kansas,-0.0221
+Prentiss County,MS,2.536,2.6891,Mississippi,-0.1531
+Presidio County,TX,3.129,2.6847,Texas,0.4443
+Prince Edward County,VA,2.959,2.9095,Virginia,0.0495
+Prince Georges County,MD,2.965,2.9834,Maryland,-0.0184
+Providence County,RI,2.945,2.9686,Rhode Island,-0.0236
+Pueblo County,CO,2.797,3.0417,Colorado,-0.2447
+Pulaski County,GA,2.935,2.9209,Georgia,0.0141
+Pushmataha County,OK,2.766,2.5638,Oklahoma,0.2022
+Putnam County,FL,3.122,3.0547,Florida,0.0673
+Putnam County,GA,2.89,2.9209,Georgia,-0.0309
+Putnam County,MO,2.829,2.6718,Missouri,0.1572
+Putnam County,NY,3.13,3.2019,New York,-0.0719
+Putnam County,OH,2.764,2.8384,Ohio,-0.0744
+Quay County,NM,2.659,2.8433,New Mexico,-0.1843
+Queen Annes County,MD,2.862,2.9834,Maryland,-0.1214
+Queens County,NY,3.096,3.2019,New York,-0.1059
+Rains County,TX,2.576,2.6847,Texas,-0.1087
+Ramsey County,MN,2.896,2.7892,Minnesota,0.1068
+Ramsey County,ND,2.894,2.8678,North Dakota,0.0262
+Randall County,TX,2.427,2.6847,Texas,-0.2577
+Randolph County,GA,2.919,2.9209,Georgia,-0.0019
+Randolph County,IL,3.222,3.0868,Illinois,0.1352
+Randolph County,IN,2.971,2.8702,Indiana,0.1008
+Randolph County,MO,2.603,2.6718,Missouri,-0.0688
+Ransom County,ND,2.683,2.8678,North Dakota,-0.1848
+Ravalli County,MT,2.769,2.9015,Montana,-0.1325
+Rawlins County,KS,2.874,2.7011,Kansas,0.1729
+Real County,TX,2.756,2.6847,Texas,0.0713
+Red Lake County,MN,2.679,2.7892,Minnesota,-0.1102
+Red Willow County,NE,2.885,2.8668,Nebraska,0.0182
+Reno County,KS,2.375,2.7011,Kansas,-0.3261
+Renville County,MN,2.826,2.7892,Minnesota,0.0368
+Renville County,ND,2.912,2.8678,North Dakota,0.0442
+Republic County,KS,2.824,2.7011,Kansas,0.1229
+Rice County,KS,2.764,2.7011,Kansas,0.0629
+Richland County,IL,2.719,3.0868,Illinois,-0.3678
+Richland County,ND,2.647,2.8678,North Dakota,-0.2208
+Richmond County,NY,3.133,3.2019,New York,-0.0689
+Rio Arriba County,NM,2.598,2.8433,New Mexico,-0.2453
+Ripley County,IN,2.983,2.8702,Indiana,0.1128
+Riverside County,CA,4.32,4.5028,California,-0.1828
+Roane County,TN,2.62,2.6916,Tennessee,-0.0716
+Roane County,WV,3.099,3.0191,West Virginia,0.0799
+Roberts County,TX,3.169,2.6847,Texas,0.4843
+Rock County,MN,2.626,2.7892,Minnesota,-0.1632
+Rock County,NE,2.899,2.8668,Nebraska,0.0322
+Rock Island County,IL,3.137,3.0868,Illinois,0.0502
+Rockbridge County,VA,3.03,2.9095,Virginia,0.1205
+Rockingham County,NH,2.881,2.9712,New Hampshire,-0.0902
+Rockingham County,VA,2.959,2.9095,Virginia,0.0495
+Roger Mills County,OK,2.579,2.5638,Oklahoma,0.0152
+Rogers County,OK,2.542,2.5638,Oklahoma,-0.0218
+Rolette County,ND,3.068,2.8678,North Dakota,0.2002
+Rooks County,KS,2.761,2.7011,Kansas,0.0599
+Roosevelt County,MT,2.913,2.9015,Montana,0.0115
+Roosevelt County,NM,2.665,2.8433,New Mexico,-0.1783
+Roseau County,MN,2.706,2.7892,Minnesota,-0.0832
+Ross County,OH,2.882,2.8384,Ohio,0.0436
+Routt County,CO,3.703,3.0417,Colorado,0.6613
+Rowan County,KY,2.699,2.7243,Kentucky,-0.0253
+Runnels County,TX,2.681,2.6847,Texas,-0.0037
+Rush County,KS,2.829,2.7011,Kansas,0.1279
+Russell County,KS,2.698,2.7011,Kansas,-0.0031
+Russell County,VA,2.891,2.9095,Virginia,-0.0185
+Rutherford County,NC,2.774,2.8649,North Carolina,-0.0909
+Rutherford County,TN,2.645,2.6916,Tennessee,-0.0466
+Rutland County,VT,3.015,3.1276,Vermont,-0.1126
+Sacramento County,CA,4.227,4.5028,California,-0.2758
+Saguache County,CO,3.259,3.0417,Colorado,0.2173
+Saint Bernard County,LA,2.602,2.741,Louisiana,-0.139
+Saint Charles County,MO,2.758,2.6718,Missouri,0.0862
+Saint Clair County,MI,2.953,2.923,Michigan,0.03
+Saint Clair County,MO,2.694,2.6718,Missouri,0.0222
+Saint Croix County,WI,2.843,2.7954,Wisconsin,0.0476
+Saint Francois County,MO,2.686,2.6718,Missouri,0.0142
+Saint Johns County,FL,3.138,3.0547,Florida,0.0833
+Saint Landry County,LA,2.679,2.741,Louisiana,-0.062
+Saint Louis County,MN,2.804,2.7892,Minnesota,0.0148
+Saint Louis County,MO,2.792,2.6718,Missouri,0.1202
+Saint Martin County,LA,2.789,2.741,Louisiana,0.048
+Saint Marys County,MD,3.142,2.9834,Maryland,0.1586
+Saint Tammany County,LA,2.734,2.741,Louisiana,-0.007
+Saline County,AR,2.546,2.6515,Arkansas,-0.1055
+Saline County,KS,2.527,2.7011,Kansas,-0.1741
+Salt Lake County,UT,2.969,3.0844,Utah,-0.1154
+San Benito County,CA,4.554,4.5028,California,0.0512
+San Diego County,CA,4.3675,4.5028,California,-0.1353
+San Joaquin County,CA,4.148,4.5028,California,-0.3548
+San Juan County,UT,3.365,3.0844,Utah,0.2806
+San Luis Obispo County,CA,4.688,4.5028,California,0.1852
+San Mateo County,CA,4.52,4.5028,California,0.0172
+San Saba County,TX,2.801,2.6847,Texas,0.1163
+Sanders County,MT,2.86,2.9015,Montana,-0.0415
+Sandoval County,NM,2.663,2.8433,New Mexico,-0.1803
+Sanilac County,MI,2.972,2.923,Michigan,0.049
+Santa Barbara County,CA,4.425,4.5028,California,-0.0778
+Santa Rosa County,FL,2.895,3.0547,Florida,-0.1597
+Sargent County,ND,2.726,2.8678,North Dakota,-0.1418
+Schenectady County,NY,3.04,3.2019,New York,-0.1619
+Schleicher County,TX,2.729,2.6847,Texas,0.0443
+Schuyler County,MO,2.785,2.6718,Missouri,0.1132
+Schuyler County,NY,3.199,3.2019,New York,-0.0029
+Scioto County,OH,2.727,2.8384,Ohio,-0.1114
+Scotland County,MO,2.799,2.6718,Missouri,0.1272
+Scott County,IL,2.924,3.0868,Illinois,-0.1628
+Scott County,MO,2.802,2.6718,Missouri,0.1302
+Scott County,MS,2.7,2.6891,Mississippi,0.0109
+Scott County,VA,2.884,2.9095,Virginia,-0.0255
+Scotts Bluff County,NE,2.986,2.8668,Nebraska,0.1192
+Searcy County,AR,2.624,2.6515,Arkansas,-0.0275
+Sebastian County,AR,2.536,2.6515,Arkansas,-0.1155
+Sedgwick County,KS,2.701,2.7011,Kansas,-0.0001
+Seminole County,GA,2.889,2.9209,Georgia,-0.0319
+Seneca County,NY,2.956,3.2019,New York,-0.2459
+Sequoyah County,OK,2.704,2.5638,Oklahoma,0.1402
+Shannon County,SD,2.976,2.8881,South Dakota,0.0879
+Shelby County,IA,2.867,2.7676,Iowa,0.0994
+Shelby County,KY,2.701,2.7243,Kentucky,-0.0233
+Shelby County,MO,2.707,2.6718,Missouri,0.0352
+Sheridan County,KS,2.659,2.7011,Kansas,-0.0421
+Sheridan County,MT,3.056,2.9015,Montana,0.1545
+Sheridan County,NE,2.899,2.8668,Nebraska,0.0322
+Sheridan County,WY,2.974,2.9467,Wyoming,0.0273
+Sherman County,KS,2.717,2.7011,Kansas,0.0159
+Sherman County,TX,2.529,2.6847,Texas,-0.1557
+Shiawassee County,MI,2.854,2.923,Michigan,-0.069
+Shoshone County,ID,3.379,3.1104,Idaho,0.2686
+Sierra County,CA,4.966,4.5028,California,0.4632
+Sierra County,NM,2.738,2.8433,New Mexico,-0.1053
+Sioux County,IA,2.555,2.7676,Iowa,-0.2126
+Sioux County,ND,2.949,2.8678,North Dakota,0.0812
+Siskiyou County,CA,4.502,4.5028,California,-0.0008
+Skamania County,WA,4.124,3.934,Washington,0.1899
+Smith County,KS,2.769,2.7011,Kansas,0.0679
+Snohomish County,WA,3.966,3.934,Washington,0.032
+Solano County,CA,4.275,4.5028,California,-0.2278
+Somerset County,MD,2.96,2.9834,Maryland,-0.0234
+Somerset County,ME,3.038,3.0555,Maine,-0.0175
+Somerset County,NJ,3.042,2.9361,New Jersey,0.1059
+Sonoma County,CA,4.571,4.5028,California,0.0682
+Southampton County,VA,2.799,2.9095,Virginia,-0.1105
+Southeast Fairbanks County,AK,3.577,3.5955,Alaska,-0.0185
+Spartanburg County,SC,2.724,2.7674,South Carolina,-0.0434
+Spink County,SD,2.907,2.8881,South Dakota,0.0189
+St John The Baptist County,LA,2.797,2.741,Louisiana,0.056
+Stanley County,SD,3.016,2.8881,South Dakota,0.1279
+Stark County,IL,3.249,3.0868,Illinois,0.1622
+Steele County,MN,2.78,2.7892,Minnesota,-0.0092
+Steele County,ND,2.752,2.8678,North Dakota,-0.1158
+Stephens County,OK,2.461,2.5638,Oklahoma,-0.1028
+Stephens County,TX,2.596,2.6847,Texas,-0.0887
+Stephenson County,IL,3.073,3.0868,Illinois,-0.0138
+Sterling County,TX,2.679,2.6847,Texas,-0.0057
+Steuben County,IN,2.764,2.8702,Indiana,-0.1062
+Steuben County,NY,3.248,3.2019,New York,0.0461
+Stevens County,MN,2.832,2.7892,Minnesota,0.0428
+Stevens County,WA,3.676,3.934,Washington,-0.258
+Stewart County,GA,3.004,2.9209,Georgia,0.0831
+Storey County,NV,3.772,3.5176,Nevada,0.2544
+Sublette County,WY,3.026,2.9467,Wyoming,0.0793
+Suffolk County,MA,3.211,3.1254,Massachusetts,0.0856
+Suffolk County,NY,3.015,3.2019,New York,-0.1869
+Sullivan County,MO,2.841,2.6718,Missouri,0.1692
+Sullivan County,NH,2.971,2.9712,New Hampshire,-0.0002
+Sullivan County,NY,3.108,3.2019,New York,-0.0939
+Sullivan County,PA,3.366,3.3018,Pennsylvania,0.0642
+Summit County,OH,2.716,2.8384,Ohio,-0.1224
+Sumner County,KS,2.731,2.7011,Kansas,0.0299
+Sunflower County,MS,2.444,2.6891,Mississippi,-0.2451
+Sussex County,DE,2.854,2.869,Delaware,-0.015
+Sussex County,NJ,2.903,2.9361,New Jersey,-0.0331
+Sutter County,CA,4.202,4.5028,California,-0.3008
+Swain County,NC,2.958,2.8649,North Carolina,0.0931
+Switzerland County,IN,2.866,2.8702,Indiana,-0.0042
+Talbot County,MD,2.862,2.9834,Maryland,-0.1214
+Tallahatchie County,MS,2.671,2.6891,Mississippi,-0.0181
+Tama County,IA,2.862,2.7676,Iowa,0.0944
+Taos County,NM,2.711,2.8433,New Mexico,-0.1323
+Tarrant County,TX,2.634,2.6847,Texas,-0.0507
+Taylor County,FL,2.898,3.0547,Florida,-0.1567
+Taylor County,IA,2.639,2.7676,Iowa,-0.1286
+Tazewell County,VA,2.809,2.9095,Virginia,-0.1005
+Tehama County,CA,3.99,4.5028,California,-0.5128
+Teton County,ID,3.231,3.1104,Idaho,0.1206
+Teton County,WY,2.743,2.9467,Wyoming,-0.2037
+Texas County,MO,2.687,2.6718,Missouri,0.0152
+Texas County,OK,2.574,2.5638,Oklahoma,0.0102
+Thayer County,NE,2.924,2.8668,Nebraska,0.0572
+Thomas County,KS,2.569,2.7011,Kansas,-0.1321
+Thomas County,NE,3.399,2.8668,Nebraska,0.5322
+Thurston County,NE,2.799,2.8668,Nebraska,-0.0678
+Tillamook County,OR,3.614,3.5375,Oregon,0.0765
+Tillman County,OK,2.509,2.5638,Oklahoma,-0.0548
+Tioga County,NY,3.201,3.2019,New York,-0.0009
+Tioga County,PA,3.304,3.3018,Pennsylvania,0.0022
+Tippecanoe County,IN,2.922,2.8702,Indiana,0.0518
+Tipton County,TN,2.728,2.6916,Tennessee,0.0364
+Tolland County,CT,3.001,3.0285,Connecticut,-0.0275
+Tompkins County,NY,3.36,3.2019,New York,0.1581
+Tooele County,UT,2.95,3.0844,Utah,-0.1344
+Toole County,MT,2.923,2.9015,Montana,0.0215
+Torrance County,NM,2.835,2.8433,New Mexico,-0.0083
+Transylvania County,NC,2.904,2.8649,North Carolina,0.0391
+Treasure County,MT,2.829,2.9015,Montana,-0.0725
+Treutlen County,GA,3.109,2.9209,Georgia,0.1881
+Trigg County,KY,2.823,2.7243,Kentucky,0.0987
+Trinity County,CA,4.895,4.5028,California,0.3922
+Tripp County,SD,2.866,2.8881,South Dakota,-0.0221
+Troup County,GA,2.897,2.9209,Georgia,-0.0239
+Tulare County,CA,4.28,4.5028,California,-0.2228
+Turner County,SD,2.815,2.8881,South Dakota,-0.0731
+Tuscarawas County,OH,2.966,2.8384,Ohio,0.1276
+Tuscola County,MI,2.91,2.923,Michigan,-0.013
+Uinta County,WY,2.744,2.9467,Wyoming,-0.2027
+Uintah County,UT,3.024,3.0844,Utah,-0.0604
+Ulster County,NY,3.049,3.2019,New York,-0.1529
+Union County,AR,2.78,2.6515,Arkansas,0.1285
+Union County,IL,3.059,3.0868,Illinois,-0.0278
+Union County,KY,2.684,2.7243,Kentucky,-0.0403
+Union County,LA,2.605,2.741,Louisiana,-0.136
+Union County,NC,2.886,2.8649,North Carolina,0.0211
+Union County,NM,2.699,2.8433,New Mexico,-0.1443
+Union County,OH,2.886,2.8384,Ohio,0.0476
+Union County,OR,3.69,3.5375,Oregon,0.1525
+Union County,PA,3.094,3.3018,Pennsylvania,-0.2078
+Union County,SD,2.696,2.8881,South Dakota,-0.1921
+Upton County,TX,2.915,2.6847,Texas,0.2303
+Utah County,UT,2.924,3.0844,Utah,-0.1604
+Valdez Cordova County,AK,4.075,3.5955,Alaska,0.4795
+Valley County,ID,3.298,3.1104,Idaho,0.1876
+Valley County,MT,2.929,2.9015,Montana,0.0275
+Van Buren County,IA,2.779,2.7676,Iowa,0.0114
+Van Buren County,TN,2.799,2.6916,Tennessee,0.1074
+Venango County,PA,3.456,3.3018,Pennsylvania,0.1542
+Ventura County,CA,4.5,4.5028,California,-0.0028
+Vermilion County,IL,3.074,3.0868,Illinois,-0.0128
+Vernon County,MO,2.488,2.6718,Missouri,-0.1838
+Victoria County,TX,2.474,2.6847,Texas,-0.2107
+Vigo County,IN,2.77,2.8702,Indiana,-0.1002
+Virginia Beach City County,VA,2.741,2.9095,Virginia,-0.1685
+Volusia County,FL,3.122,3.0547,Florida,0.0673
+Wabash County,IL,2.984,3.0868,Illinois,-0.1028
+Wabasha County,MN,2.744,2.7892,Minnesota,-0.0452
+Wadena County,MN,2.892,2.7892,Minnesota,0.1028
+Wahkiakum County,WA,4.599,3.934,Washington,0.665
+Wake County,NC,2.888,2.8649,North Carolina,0.0231
+Waldo County,ME,3.02,3.0555,Maine,-0.0355
+Walker County,GA,2.793,2.9209,Georgia,-0.1279
+Wallace County,KS,2.899,2.7011,Kansas,0.1979
+Wallowa County,OR,3.952,3.5375,Oregon,0.4145
+Walsh County,ND,2.786,2.8678,North Dakota,-0.0818
+Walthall County,MS,2.692,2.6891,Mississippi,0.0029
+Walton County,FL,2.837,3.0547,Florida,-0.2177
+Walworth County,SD,2.942,2.8881,South Dakota,0.0539
+Ward County,ND,2.887,2.8678,North Dakota,0.0192
+Ward County,TX,2.662,2.6847,Texas,-0.0227
+Ware County,GA,2.766,2.9209,Georgia,-0.1549
+Warren County,GA,2.997,2.9209,Georgia,0.0761
+Warren County,IL,3.099,3.0868,Illinois,0.0122
+Warren County,MS,2.708,2.6891,Mississippi,0.0189
+Warren County,NY,3.241,3.2019,New York,0.0391
+Warren County,OH,2.783,2.8384,Ohio,-0.0554
+Warren County,PA,3.695,3.3018,Pennsylvania,0.3932
+Warrick County,IN,2.687,2.8702,Indiana,-0.1832
+Wasco County,OR,3.279,3.5375,Oregon,-0.2585
+Waseca County,MN,2.78,2.7892,Minnesota,-0.0092
+Washington County,AR,2.577,2.6515,Arkansas,-0.0745
+Washington County,CO,3.059,3.0417,Colorado,0.0173
+Washington County,FL,2.856,3.0547,Florida,-0.1987
+Washington County,ID,3.157,3.1104,Idaho,0.0466
+Washington County,KS,2.677,2.7011,Kansas,-0.0241
+Washington County,KY,2.763,2.7243,Kentucky,0.0387
+Washington County,MD,3.071,2.9834,Maryland,0.0876
+Washington County,ME,3.088,3.0555,Maine,0.0325
+Washington County,MO,2.596,2.6718,Missouri,-0.0758
+Washington County,MS,2.672,2.6891,Mississippi,-0.0171
+Washington County,NC,2.707,2.8649,North Carolina,-0.1579
+Washington County,NE,2.598,2.8668,Nebraska,-0.2688
+Washington County,NY,3.168,3.2019,New York,-0.0339
+Washington County,OH,2.917,2.8384,Ohio,0.0786
+Washington County,OK,2.513,2.5638,Oklahoma,-0.0508
+Washington County,OR,3.753,3.5375,Oregon,0.2155
+Washington County,PA,3.387,3.3018,Pennsylvania,0.0852
+Washington County,RI,3.012,2.9686,Rhode Island,0.0434
+Washington County,VA,2.842,2.9095,Virginia,-0.0675
+Washington County,VT,3.21,3.1276,Vermont,0.0824
+Washita County,OK,2.599,2.5638,Oklahoma,0.0352
+Washoe County,NV,4.118,3.5176,Nevada,0.6004
+Waukesha County,WI,2.621,2.7954,Wisconsin,-0.1744
+Wayne County,GA,2.823,2.9209,Georgia,-0.0979
+Wayne County,IA,2.729,2.7676,Iowa,-0.0386
+Wayne County,IN,2.861,2.8702,Indiana,-0.0092
+Wayne County,KY,2.744,2.7243,Kentucky,0.0197
+Wayne County,NC,2.84,2.8649,North Carolina,-0.0249
+Wayne County,OH,2.723,2.8384,Ohio,-0.1154
+Wayne County,PA,3.302,3.3018,Pennsylvania,0.0002
+Wayne County,UT,3.213,3.0844,Utah,0.1286
+Weakley County,TN,2.583,2.6916,Tennessee,-0.1086
+Webb County,TX,2.455,2.6847,Texas,-0.2297
+Webster County,KY,2.625,2.7243,Kentucky,-0.0993
+Webster County,LA,2.669,2.741,Louisiana,-0.072
+Weld County,CO,2.705,3.0417,Colorado,-0.3367
+Wells County,IN,2.838,2.8702,Indiana,-0.0322
+Wells County,ND,2.899,2.8678,North Dakota,0.0312
+West Feliciana County,LA,2.93,2.741,Louisiana,0.189
+Westchester County,NY,3.324,3.2019,New York,0.1221
+Westmoreland County,PA,3.419,3.3018,Pennsylvania,0.1172
+Weston County,WY,2.852,2.9467,Wyoming,-0.0947
+Wexford County,MI,2.771,2.923,Michigan,-0.152
+Wheeler County,GA,2.939,2.9209,Georgia,0.0181
+White County,IL,3.038,3.0868,Illinois,-0.0488
+White Pine County,NV,2.778,3.5176,Nevada,-0.7396
+Whiteside County,IL,3.166,3.0868,Illinois,0.0792
+Whitfield County,GA,2.84,2.9209,Georgia,-0.0809
+Whitman County,WA,3.951,3.934,Washington,0.017
+Wibaux County,MT,2.919,2.9015,Montana,0.0175
+Wicomico County,MD,2.864,2.9834,Maryland,-0.1194
+Wilkes County,GA,2.896,2.9209,Georgia,-0.0249
+Wilkin County,MN,2.649,2.7892,Minnesota,-0.1402
+Wilkinson County,GA,2.853,2.9209,Georgia,-0.0679
+Wilkinson County,MS,2.939,2.6891,Mississippi,0.2499
+Will County,IL,3.091,3.0868,Illinois,0.0042
+Willacy County,TX,2.494,2.6847,Texas,-0.1907
+Williams County,ND,2.961,2.8678,North Dakota,0.0932
+Williamsburg County,SC,2.836,2.7674,South Carolina,0.0686
+Williamson County,IL,2.89,3.0868,Illinois,-0.1968
+Williamson County,TN,2.8105,2.6916,Tennessee,0.1189
+Wilson County,KS,2.765,2.7011,Kansas,0.0639
+Wilson County,TN,2.622,2.6916,Tennessee,-0.0696
+Winchester City County,VA,2.911,2.9095,Virginia,0.0015
+Windham County,VT,2.978,3.1276,Vermont,-0.1496
+Windsor County,VT,3.02,3.1276,Vermont,-0.1076
+Winnebago County,IA,2.839,2.7676,Iowa,0.0714
+Winnebago County,IL,3.113,3.0868,Illinois,0.0262
+Winneshiek County,IA,2.884,2.7676,Iowa,0.1164
+Winona County,MN,2.772,2.7892,Minnesota,-0.0172
+Winston County,MS,2.588,2.6891,Mississippi,-0.1011
+Wolfe County,KY,2.949,2.7243,Kentucky,0.2247
+Wood County,WV,2.727,3.0191,West Virginia,-0.2921
+Woodbury County,IA,2.53,2.7676,Iowa,-0.2376
+Woodford County,KY,2.722,2.7243,Kentucky,-0.0023
+Worcester County,MA,3.028,3.1254,Massachusetts,-0.0974
+Worcester County,MD,2.919,2.9834,Maryland,-0.0644
+Wright County,IA,2.756,2.7676,Iowa,-0.0116
+Wyoming County,NY,3.23,3.2019,New York,0.0281
+Wyoming County,PA,3.168,3.3018,Pennsylvania,-0.1338
+Yakima County,WA,3.68,3.934,Washington,-0.254
+Yates County,NY,3.32,3.2019,New York,0.1181
+Yavapai County,AZ,3.241,3.1461,Arizona,0.0949
+Yell County,AR,2.754,2.6515,Arkansas,0.1025
+Yellow Medicine County,MN,2.883,2.7892,Minnesota,0.0938
+Yellowstone County,MT,2.79,2.9015,Montana,-0.1115
+Yolo County,CA,4.207,4.5028,California,-0.2958
+York County,ME,3.021,3.0555,Maine,-0.0345
+York County,NE,2.699,2.8668,Nebraska,-0.1678
+York County,SC,2.7,2.7674,South Carolina,-0.0674
+Yukon Koyukuk County,AK,3.569,3.5955,Alaska,-0.0265
+Yuma County,AZ,3.156,3.1461,Arizona,0.0099
