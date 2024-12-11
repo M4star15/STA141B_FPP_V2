@@ -1,7 +1,0 @@
-This Interwar Poland 1934 GIS dataset is made available under the Public Domain Dedication and License version v1.0 whose full text can be found at http://opendatacommons.org/licenses/pddl/
-
-Open Data community norms are located at http://opendatacommons.org/norms/odc-by-sa/ and are without obligation.
-
-Note as I spent quite a bit of personal time digitizing these points and polygons, attribution would be most appreciated.
-
-If you wish to submit any critiques, revisions or additions; send them along via paul@dziemiela.com.
