@@ -1,0 +1,13 @@
+# default behavior to automatically normalize line endings
+* text=auto
+
+
+*.html text
+*.js text
+*.css text
+*.md text
+
+# note all files that are truly binary and should not be modified.
+*.png binary
+*.jpg binary
+*.gif binary
