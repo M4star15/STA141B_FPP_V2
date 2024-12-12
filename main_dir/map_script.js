@@ -104,3 +104,30 @@ const stateTooltips = {
     "WI": "Donald Trump: 49.6%<br>Kamala Harris: 48.8%<br>Robert F. Kennedy Jr.: 0.5%",
     "WY": "Donald Trump: 71.6%<br>Kamala Harris: 25.8%<br>Chase Oliver: 1.6%"
 };
+
+    document.querySelectorAll("path[data-id]").forEach((statePath) => {
+        const stateId = statePath.getAttribute("data-id");
+
+        if (stateColors[stateId]) {
+            statePath.classList.add(`state-${stateColors[stateId]}`);
+        }
+
+        statePath.addEventListener("mouseenter", (event) => {
+            const tooltip = document.getElementById("tooltip");
+            tooltip.innerHTML = stateTooltips[stateId] || "No data available";
+            tooltip.style.display = "block";
+            tooltip.style.left = event.pageX + 10 + "px";
+            tooltip.style.top = event.pageY + 10 + "px";
+        });
+
+        statePath.addEventListener("mousemove", (event) => {
+            const tooltip = document.getElementById("tooltip");
+            tooltip.style.left = event.pageX + 10 + "px";
+            tooltip.style.top = event.pageY + 10 + "px";
+        });
+
+        statePath.addEventListener("mouseleave", () => {
+            const tooltip = document.getElementById("tooltip");
+            tooltip.style.display = "none";
+        });
+    });
